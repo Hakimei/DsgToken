@@ -10,13 +10,13 @@
         "type": "color"
       },
       "muted": {
-        "value": "#e0e0e0",
+        "value": "#d4d4d4",
         "type": "color"
       }
     },
     "fg": {
       "default": {
-        "value": "#171717",
+        "value": "#121212",
         "type": "color"
       },
       "onAccent": {
@@ -24,21 +24,21 @@
         "type": "color"
       },
       "muted": {
-        "value": "#616161",
+        "value": "#404040",
         "type": "color"
       },
       "subtle": {
-        "value": "#9e9e9e",
+        "value": "#737373",
         "type": "color"
       }
     },
     "accent": {
       "default": {
-        "value": "#3d53f5",
+        "value": "#3b82f6",
         "type": "color"
       },
       "subtle": {
-        "value": "#eceefe",
+        "value": "#eff6ff",
         "type": "color"
       }
     }
