@@ -28,13 +28,13 @@
         "type": "color"
       },
       "subtle": {
-        "value": "#737373",
+        "value": "#404040",
         "type": "color"
       }
     },
     "accent": {
       "default": {
-        "value": "#60a5fa",
+        "value": "#3b82f6",
         "type": "color"
       },
       "subtle": {
