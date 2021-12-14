@@ -41,6 +41,16 @@
         "value": "#eff6ff",
         "type": "color"
       }
+    },
+    "opacity": {
+      "90": {
+        "value": "#121212e6",
+        "type": "color"
+      },
+      "100": {
+        "value": "#121212",
+        "type": "color"
+      }
     }
   },
   "shadow": {
