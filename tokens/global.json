@@ -1028,14 +1028,6 @@
             "spread": 0,
             "color": "#e11d4814",
             "type": "dropShadow"
-          },
-          {
-            "x": 0,
-            "y": 13,
-            "blur": 20,
-            "spread": 0,
-            "color": "#e11d4814",
-            "type": "dropShadow"
           }
         ],
         "type": "boxShadow"
