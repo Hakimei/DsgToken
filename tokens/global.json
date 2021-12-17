@@ -940,76 +940,100 @@
     }
   },
   "_opacity": {
-    "5": {
-      "value": 0.05,
+    "4": {
+      "value": 0.04,
       "type": "opacity"
     },
-    "10": {
-      "value": 0.1,
+    "8": {
+      "value": 0.08,
       "type": "opacity"
     },
-    "15": {
-      "value": 0.15,
+    "12": {
+      "value": 0.12,
+      "type": "opacity"
+    },
+    "16": {
+      "value": 0.16,
       "type": "opacity"
     },
     "20": {
       "value": 0.2,
       "type": "opacity"
     },
-    "25": {
-      "value": 0.25,
+    "24": {
+      "value": 0.24,
       "type": "opacity"
     },
-    "30": {
-      "value": 0.3,
+    "28": {
+      "value": 0.28,
       "type": "opacity"
     },
-    "35": {
-      "value": 0.35,
+    "32": {
+      "value": 0.32,
+      "type": "opacity"
+    },
+    "36": {
+      "value": 0.36,
       "type": "opacity"
     },
     "40": {
       "value": 0.4,
       "type": "opacity"
     },
-    "45": {
-      "value": 0.45,
+    "44": {
+      "value": 0.44,
       "type": "opacity"
     },
-    "50": {
-      "value": 0.5,
+    "48": {
+      "value": 0.48,
       "type": "opacity"
     },
-    "55": {
-      "value": 0.55,
+    "52": {
+      "value": 0.52,
+      "type": "opacity"
+    },
+    "56": {
+      "value": 0.56,
       "type": "opacity"
     },
     "60": {
       "value": 0.6,
       "type": "opacity"
     },
-    "65": {
-      "value": 0.65,
+    "64": {
+      "value": 0.64,
       "type": "opacity"
     },
-    "75": {
-      "value": 0.75,
+    "68": {
+      "value": 0.68,
+      "type": "opacity"
+    },
+    "72": {
+      "value": 0.72,
+      "type": "opacity"
+    },
+    "76": {
+      "value": 0.76,
       "type": "opacity"
     },
     "80": {
       "value": 0.8,
       "type": "opacity"
     },
-    "85": {
-      "value": 0.85,
+    "84": {
+      "value": 0.84,
       "type": "opacity"
     },
-    "90": {
-      "value": 0.9,
+    "88": {
+      "value": 0.88,
       "type": "opacity"
     },
-    "95": {
-      "value": 0.95,
+    "92": {
+      "value": 0.92,
+      "type": "opacity"
+    },
+    "96": {
+      "value": 0.96,
       "type": "opacity"
     },
     "100": {
