@@ -43,12 +43,16 @@
       }
     },
     "opacity": {
-      "90": {
-        "value": "#ffffffe6",
+      "32": {
+        "value": "#ffffff52",
         "type": "color"
       },
-      "100": {
-        "value": "#ffffff",
+      "52": {
+        "value": "#ffffff85",
+        "type": "color"
+      },
+      "72": {
+        "value": "#ffffffb8",
         "type": "color"
       }
     }
@@ -60,16 +64,16 @@
           "color": "#00000014",
           "type": "dropShadow",
           "x": 0,
-          "y": 13,
-          "blur": 20,
+          "y": 3,
+          "blur": 8,
           "spread": 0
         },
         {
           "color": "#00000014",
           "type": "dropShadow",
           "x": 0,
-          "y": 3,
-          "blur": 8,
+          "y": 13,
+          "blur": 20,
           "spread": 0
         }
       ],
