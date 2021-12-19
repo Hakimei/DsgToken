@@ -246,4 +246,27 @@
   --opacity-92: 0.92;
   --opacity-96: 0.96;
   --opacity-100: 1;
+  --shadow-sm: [object Object];
+  --shadow: [object Object],[object Object];
+  --shadow-md: [object Object],[object Object];
+  --shadow-lg: [object Object],[object Object];
+  --shadow-xl: [object Object],[object Object];
+  --shadow-2xl: [object Object];
+  --shadow-inner: [object Object];
+  --corner-base: 4;
+  --corner-md: 8;
+  --corner-lg: 16;
+  --corner-xl: 32;
+  --corner-rounded: 96;
+  --spacing-base: 4px;
+  --spacing-md: 8px;
+  --spacing-lg: 16px;
+  --spacing-xl: 32px;
+  --spacing-2xl: 64px;
+  --sizing-xs: 4px;
+  --sizing-sm: 8px;
+  --sizing-base: 16px;
+  --sizing-lg: 32px;
+  --sizing-xl: 64px;
+  --sizing-2xl: 128px;
       }
