@@ -1227,6 +1227,10 @@
     "2xl": {
       "value": 128,
       "type": "sizing"
+    },
+    "3xl": {
+      "value": 256,
+      "type": "sizing"
     }
   }
 }
