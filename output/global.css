@@ -270,4 +270,10 @@
   --sizing-xl: 64px;
   --sizing-2xl: 128px;
   --sizing-3xl: 256px;
+  --leading-normal: 150%;
+  --leading-none: 100%;
+  --leading-tight: 125%;
+  --leading-snug: 135%;
+  --leading-relaxed: 160%;
+  --leading-loose: 200%;
       }
