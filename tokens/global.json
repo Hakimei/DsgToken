@@ -1232,5 +1232,37 @@
       "value": 256,
       "type": "sizing"
     }
+  },
+  "leading": {
+    "normal": {
+      "value": "150%",
+      "description": "",
+      "type": "lineHeights"
+    },
+    "none": {
+      "value": "100%",
+      "description": "",
+      "type": "lineHeights"
+    },
+    "tight": {
+      "value": "125%",
+      "description": "",
+      "type": "lineHeights"
+    },
+    "snug": {
+      "value": "135%",
+      "description": "",
+      "type": "lineHeights"
+    },
+    "relaxed": {
+      "value": "160%",
+      "description": "",
+      "type": "lineHeights"
+    },
+    "loose": {
+      "value": "200%",
+      "description": "",
+      "type": "lineHeights"
+    }
   }
 }
