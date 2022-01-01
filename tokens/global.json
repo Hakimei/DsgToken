@@ -1264,5 +1264,15 @@
       "description": "",
       "type": "lineHeights"
     }
+  },
+  "Inter": {
+    "value": "Inter",
+    "type": "fontFamilies"
+  },
+  "fontsize": {
+    "base": {
+      "value": 16,
+      "type": "fontSizes"
+    }
   }
 }
