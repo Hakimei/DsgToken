@@ -276,4 +276,6 @@
   --leading-snug: 135%;
   --leading-relaxed: 160%;
   --leading-loose: 200%;
+  --inter: Inter;
+  --fontsize-base: 16;
       }
