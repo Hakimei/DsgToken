@@ -253,11 +253,13 @@
   --shadow-xl: [object Object],[object Object];
   --shadow-2xl: [object Object];
   --shadow-inner: [object Object];
-  --corner-base: 4;
-  --corner-md: 8;
-  --corner-lg: 16;
-  --corner-xl: 32;
-  --corner-rounded: 96;
+  --rounded-base: 4;
+  --rounded-md: 8;
+  --rounded-lg: 16;
+  --rounded-xl: 32;
+  --rounded-full: 96;
+  --rounded-none: 0;
+  --rounded-sm: 2;
   --spacing-base: 4px;
   --spacing-md: 8px;
   --spacing-lg: 16px;
@@ -278,4 +280,9 @@
   --leading-loose: 200%;
   --inter: Inter;
   --fontsize-base: 16;
+  --border-1: 1;
+  --border-2: 2;
+  --border-4: 4;
+  --border-8: 8;
+  --border-none: 0;
       }
