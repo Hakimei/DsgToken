@@ -279,10 +279,20 @@
   --leading-relaxed: 160%;
   --leading-loose: 200%;
   --inter: Inter;
-  --fontsize-base: 16;
+  --text-base: 16;
   --border-1: 1;
   --border-2: 2;
   --border-4: 4;
   --border-8: 8;
   --border-none: 0;
+  --font-thin: thin;
+  --font-extralight: Extra Light;
+  --font-light: Light;
+  --font-normal: Regular;
+  --font-medium: Medium;
+  --font-semibold: Semi Bold;
+  --font-bold: Bold;
+  --font-extrabold: Extra Bold;
+  --font-black: Black;
+  --jet-brains-mono: JetBrains Mono;
       }
