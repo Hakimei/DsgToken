@@ -278,13 +278,7 @@
   --leading-snug: 135%;
   --leading-relaxed: 160%;
   --leading-loose: 200%;
-  --inter: Inter;
-  --text-base: 16;
-  --border-1: 1;
-  --border-2: 2;
-  --border-4: 4;
-  --border-8: 8;
-  --border-none: 0;
+  --font-sans: Inter;
   --font-thin: thin;
   --font-extralight: Extra Light;
   --font-light: Light;
@@ -294,5 +288,11 @@
   --font-bold: Bold;
   --font-extrabold: Extra Bold;
   --font-black: Black;
-  --jet-brains-mono: JetBrains Mono;
+  --font-mono: JetBrains Mono;
+  --text-base: 16;
+  --border-1: 1;
+  --border-2: 2;
+  --border-4: 4;
+  --border-8: 8;
+  --border-none: 0;
       }
