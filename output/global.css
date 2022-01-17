@@ -247,10 +247,10 @@
   --opacity-96: 0.96;
   --opacity-100: 1;
   --shadow-sm: [object Object];
-  --shadow: [object Object],[object Object];
-  --shadow-md: [object Object],[object Object];
-  --shadow-lg: [object Object],[object Object];
-  --shadow-xl: [object Object],[object Object];
+  --shadow: [object Object];
+  --shadow-md: [object Object];
+  --shadow-lg: [object Object];
+  --shadow-xl: [object Object];
   --shadow-2xl: [object Object];
   --shadow-inner: [object Object];
   --rounded-base: 4;
@@ -295,4 +295,14 @@
   --border-4: 4;
   --border-8: 8;
   --border-none: 0;
+  --line-underline: underline;
+  --line-line-through: line-through;
+  --line-no-underline: none;
+  --tracking-tighter: -0.8px;
+  --tracking-tight: -0.4px;
+  --tracking-normal: 0px;
+  --tracking-wide: 0.4px;
+  --tracking-wider: 0.8px;
+  --tracking-widest: 1.6px;
+  --transform-uppercase: uppercase;
       }
