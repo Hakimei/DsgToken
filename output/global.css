@@ -305,4 +305,7 @@
   --tracking-wider: 0.8px;
   --tracking-widest: 1.6px;
   --transform-uppercase: uppercase;
+  --transform-lowercase: lowercase;
+  --transform-capitalize: capitalize;
+  --transform-normalcase: none;
       }
