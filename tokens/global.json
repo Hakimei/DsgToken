@@ -1509,28 +1509,28 @@
     }
   },
   "_tracking": {
-    "0": {
-      "value": "0px",
-      "type": "letterSpacing"
-    },
-    "16": {
-      "value": "1.6px",
-      "type": "letterSpacing"
-    },
-    "-08": {
+    "tighter": {
       "value": "-0.8px",
       "type": "letterSpacing"
     },
-    "-04": {
+    "tight": {
       "value": "-0.4px",
       "type": "letterSpacing"
     },
-    "04": {
+    "normal": {
+      "value": "0px",
+      "type": "letterSpacing"
+    },
+    "wide": {
       "value": "0.4px",
       "type": "letterSpacing"
     },
-    "08": {
+    "wider": {
       "value": "0.8px",
+      "type": "letterSpacing"
+    },
+    "widest": {
+      "value": "1.6px",
       "type": "letterSpacing"
     }
   },
