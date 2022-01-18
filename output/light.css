@@ -344,12 +344,12 @@
   --line-underline: underline;
   --line-line-through: line-through;
   --line-no-underline: none;
-  --tracking-0: 0px;
-  --tracking-16: 1.6px;
-  --tracking-08: -0.8px;
-  --tracking-04: -0.4px;
-  --tracking-04: 0.4px;
-  --tracking-08: 0.8px;
+  --tracking-tighter: -0.8px;
+  --tracking-tight: -0.4px;
+  --tracking-normal: 0px;
+  --tracking-wide: 0.4px;
+  --tracking-wider: 0.8px;
+  --tracking-widest: 1.6px;
   --transform-uppercase: uppercase;
   --transform-lowercase: lowercase;
   --transform-capitalize: capitalize;
