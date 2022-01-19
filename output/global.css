@@ -247,10 +247,10 @@
   --opacity-96: 0.96;
   --opacity-100: 1;
   --effect-shadow-sm: [object Object];
-  --effect-shadow: [object Object];
-  --effect-shadow-md: [object Object];
-  --effect-shadow-lg: [object Object];
-  --effect-shadow-xl: [object Object];
+  --effect-shadow: [object Object],[object Object];
+  --effect-shadow-md: [object Object],[object Object];
+  --effect-shadow-lg: [object Object],[object Object];
+  --effect-shadow-xl: [object Object],[object Object];
   --effect-shadow-2xl: [object Object];
   --effect-shadow-inner: [object Object];
   --rounded-0: 0;
@@ -341,4 +341,7 @@
   --transform-lowercase: lowercase;
   --transform-capitalize: capitalize;
   --transform-normalcase: none;
+  --linebreak-12: 12;
+  --linebreak-14: 14;
+  --linebreak-16: 16;
       }
