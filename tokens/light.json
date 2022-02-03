@@ -1,105 +1,77 @@
 {
   "Neutral": {
+    "Text": {
+      "Strong": {
+        "value": "#1c1917",
+        "description": "AAA",
+        "type": "color"
+      },
+      "Default": {
+        "value": "#44403c",
+        "description": "AA",
+        "type": "color"
+      },
+      "Weak": {
+        "value": "#d6d3d1",
+        "description": "Disabled",
+        "type": "color"
+      }
+    },
     "Background": {
       "Default": {
         "value": "#fafaf9",
         "type": "color"
       },
-      "Subtle": {
+      "Medium": {
         "value": "#f5f5f4",
         "type": "color"
       },
-      "Muted": {
-        "value": "#e7e5e4",
-        "type": "color"
-      }
-    },
-    "Foreground": {
-      "Default": {
-        "value": "#f5f5f4",
-        "type": "color"
-      },
-      "Subtle": {
+      "Strong": {
         "value": "#e7e5e4",
         "type": "color"
       },
-      "Muted": {
-        "value": "#d6d3d1",
-        "type": "color"
-      }
-    },
-    "Primary": {
       "Hover": {
-        "value": "#44403c",
+        "value": "#78716c08",
         "type": "color"
       },
-      "Normal": {
-        "value": "#57534e",
-        "type": "color"
-      }
-    },
-    "Text": {
-      "Header": {
-        "value": "#1c1917",
-        "type": "color"
-      },
-      "Body": {
-        "value": "#292524",
-        "type": "color"
-      },
-      "UI": {
-        "value": "#44403c",
-        "type": "color"
-      },
-      "onPrimary": {
-        "value": "#fafaf9",
-        "type": "color"
-      },
-      "Link": {
-        "value": "#57534e",
+      "Active": {
+        "value": "#78716c0f",
         "type": "color"
       }
     },
     "Border": {
-      "Pressed": {
-        "value": "#44403c",
+      "Default": {
+        "value": "#d6d3d1",
+        "description": "Outline",
+        "type": "color"
+      },
+      "Strong": {
+        "value": "#a8a29e",
+        "description": "Outline",
         "type": "color"
       },
       "Hover": {
-        "value": "#57534e",
+        "value": "#78716c",
+        "description": "",
         "type": "color"
       },
-      "Normal": {
-        "value": "#a8a29e",
+      "Active": {
+        "value": "#57534e",
+        "description": "",
         "type": "color"
       }
     },
-    "Selected": {
-      "Pressed": {
-        "value": "#a8a29e",
+    "Icon": {
+      "Default": {
+        "value": "#57534e",
+        "description": "",
         "type": "color"
       },
       "Hover": {
-        "value": "#d6d3d1",
-        "type": "color"
-      },
-      "Normal": {
-        "value": "#e7e5e4",
+        "value": "#292524",
+        "description": "",
         "type": "color"
       }
-    }
-  },
-  "Button": {
-    "shadow": {
-      "value": {
-        "color": "#57534e1f",
-        "type": "dropShadow",
-        "x": 0,
-        "y": 4,
-        "blur": 16,
-        "spread": 0
-      },
-      "type": "boxShadow"
     }
   }
 }

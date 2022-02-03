@@ -221,7 +221,9 @@
   --colors-rose-900: #881337;
   --colors-white-100: #ffffff;
   --colors-black-100: #121212;
+  --opacity-3: 0.03;
   --opacity-4: 0.04;
+  --opacity-6: 0.06;
   --opacity-8: 0.08;
   --opacity-12: 0.12;
   --opacity-16: 0.16;
