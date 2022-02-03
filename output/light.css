@@ -1,12 +1,13 @@
 .light-theme {
-          --neutral-text-strong: #1c1917;
-  --neutral-text-default: #44403c;
-  --neutral-text-weak: #d6d3d1;
+          --neutral-text-default: #44403c;
+  --neutral-text-weak: #78716c;
+  --neutral-text-strong: #1c1917;
+  --neutral-text-disabled: #d6d3d1;
   --neutral-background-default: #fafaf9;
   --neutral-background-medium: #f5f5f4;
   --neutral-background-strong: #e7e5e4;
-  --neutral-background-hover: #78716c08;
-  --neutral-background-active: #78716c0f;
+  --neutral-background-hover: #2925241f;
+  --neutral-background-active: #1c191729;
   --neutral-border-default: #d6d3d1;
   --neutral-border-strong: #a8a29e;
   --neutral-border-hover: #78716c;

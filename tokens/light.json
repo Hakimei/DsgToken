@@ -1,19 +1,24 @@
 {
   "Neutral": {
     "Text": {
-      "Strong": {
-        "value": "#1c1917",
-        "description": "AAA",
-        "type": "color"
-      },
       "Default": {
         "value": "#44403c",
         "description": "AA",
         "type": "color"
       },
       "Weak": {
+        "value": "#78716c",
+        "description": "",
+        "type": "color"
+      },
+      "Strong": {
+        "value": "#1c1917",
+        "description": "AAA",
+        "type": "color"
+      },
+      "Disabled": {
         "value": "#d6d3d1",
-        "description": "Disabled",
+        "description": "",
         "type": "color"
       }
     },
@@ -31,11 +36,11 @@
         "type": "color"
       },
       "Hover": {
-        "value": "#78716c08",
+        "value": "#2925241f",
         "type": "color"
       },
       "Active": {
-        "value": "#78716c0f",
+        "value": "#1c191729",
         "type": "color"
       }
     },
