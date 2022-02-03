@@ -78,5 +78,325 @@
         "type": "color"
       }
     }
+  },
+  "Success": {
+    "Text": {
+      "Default": {
+        "value": "#4d7c0f",
+        "description": "AA",
+        "type": "color"
+      },
+      "Weak": {
+        "value": "#84cc16",
+        "description": "",
+        "type": "color"
+      },
+      "Strong": {
+        "value": "#365314",
+        "description": "AAA",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "#bef264",
+        "description": "",
+        "type": "color"
+      }
+    },
+    "Background": {
+      "Default": {
+        "value": "#f7fee7",
+        "type": "color"
+      },
+      "Medium": {
+        "value": "#ecfccb",
+        "type": "color"
+      },
+      "Strong": {
+        "value": "#d9f99d",
+        "type": "color"
+      },
+      "Hover": {
+        "value": "#3f62121f",
+        "type": "color"
+      },
+      "Active": {
+        "value": "#36531429",
+        "type": "color"
+      }
+    },
+    "Border": {
+      "Default": {
+        "value": "#bef264",
+        "description": "Outline",
+        "type": "color"
+      },
+      "Strong": {
+        "value": "#a3e635",
+        "description": "Outline",
+        "type": "color"
+      },
+      "Hover": {
+        "value": "#84cc16",
+        "description": "",
+        "type": "color"
+      },
+      "Active": {
+        "value": "#65a30d",
+        "description": "",
+        "type": "color"
+      }
+    },
+    "Icon": {
+      "Default": {
+        "value": "#65a30d",
+        "description": "",
+        "type": "color"
+      },
+      "Hover": {
+        "value": "#3f6212",
+        "description": "",
+        "type": "color"
+      }
+    }
+  },
+  "Warning": {
+    "Text": {
+      "Default": {
+        "value": "#b45309",
+        "description": "AA",
+        "type": "color"
+      },
+      "Weak": {
+        "value": "#f59e0b",
+        "description": "",
+        "type": "color"
+      },
+      "Strong": {
+        "value": "#78350f",
+        "description": "AAA",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "#fcd34d",
+        "description": "",
+        "type": "color"
+      }
+    },
+    "Background": {
+      "Default": {
+        "value": "#fffbeb",
+        "type": "color"
+      },
+      "Medium": {
+        "value": "#fef3c7",
+        "type": "color"
+      },
+      "Strong": {
+        "value": "#fde68a",
+        "type": "color"
+      },
+      "Hover": {
+        "value": "#92400e1f",
+        "type": "color"
+      },
+      "Active": {
+        "value": "#78350f29",
+        "type": "color"
+      }
+    },
+    "Border": {
+      "Default": {
+        "value": "#fcd34d",
+        "description": "Outline",
+        "type": "color"
+      },
+      "Strong": {
+        "value": "#fbbf24",
+        "description": "Outline",
+        "type": "color"
+      },
+      "Hover": {
+        "value": "#f59e0b",
+        "description": "",
+        "type": "color"
+      },
+      "Active": {
+        "value": "#d97706",
+        "description": "",
+        "type": "color"
+      }
+    },
+    "Icon": {
+      "Default": {
+        "value": "#d97706",
+        "description": "",
+        "type": "color"
+      },
+      "Hover": {
+        "value": "#92400e",
+        "description": "",
+        "type": "color"
+      }
+    }
+  },
+  "Negative": {
+    "Text": {
+      "Default": {
+        "value": "#be123c",
+        "description": "AA",
+        "type": "color"
+      },
+      "Weak": {
+        "value": "#f43f5e",
+        "description": "",
+        "type": "color"
+      },
+      "Strong": {
+        "value": "#881337",
+        "description": "AAA",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "#fda4af",
+        "description": "",
+        "type": "color"
+      }
+    },
+    "Background": {
+      "Default": {
+        "value": "#fff1f2",
+        "type": "color"
+      },
+      "Medium": {
+        "value": "#ffe4e6",
+        "type": "color"
+      },
+      "Strong": {
+        "value": "#fecdd3",
+        "type": "color"
+      },
+      "Hover": {
+        "value": "#9f12391f",
+        "type": "color"
+      },
+      "Active": {
+        "value": "#88133729",
+        "type": "color"
+      }
+    },
+    "Border": {
+      "Default": {
+        "value": "#fda4af",
+        "description": "Outline",
+        "type": "color"
+      },
+      "Strong": {
+        "value": "#fb7185",
+        "description": "Outline",
+        "type": "color"
+      },
+      "Hover": {
+        "value": "#f43f5e",
+        "description": "",
+        "type": "color"
+      },
+      "Active": {
+        "value": "#e11d48",
+        "description": "",
+        "type": "color"
+      }
+    },
+    "Icon": {
+      "Default": {
+        "value": "#e11d48",
+        "description": "",
+        "type": "color"
+      },
+      "Hover": {
+        "value": "#9f1239",
+        "description": "",
+        "type": "color"
+      }
+    }
+  },
+  "Info": {
+    "Text": {
+      "Default": {
+        "value": "#1d4ed8",
+        "description": "AA",
+        "type": "color"
+      },
+      "Weak": {
+        "value": "#3b82f6",
+        "description": "",
+        "type": "color"
+      },
+      "Strong": {
+        "value": "#1e3a8a",
+        "description": "AAA",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "#93c5fd",
+        "description": "",
+        "type": "color"
+      }
+    },
+    "Background": {
+      "Default": {
+        "value": "#eff6ff",
+        "type": "color"
+      },
+      "Medium": {
+        "value": "#dbeafe",
+        "type": "color"
+      },
+      "Strong": {
+        "value": "#bfdbfe",
+        "type": "color"
+      },
+      "Hover": {
+        "value": "#1e40af1f",
+        "type": "color"
+      },
+      "Active": {
+        "value": "#1e3a8a29",
+        "type": "color"
+      }
+    },
+    "Border": {
+      "Default": {
+        "value": "#93c5fd",
+        "description": "Outline",
+        "type": "color"
+      },
+      "Strong": {
+        "value": "#60a5fa",
+        "description": "Outline",
+        "type": "color"
+      },
+      "Hover": {
+        "value": "#3b82f6",
+        "description": "",
+        "type": "color"
+      },
+      "Active": {
+        "value": "#2563eb",
+        "description": "",
+        "type": "color"
+      }
+    },
+    "Icon": {
+      "Default": {
+        "value": "#2563eb",
+        "description": "",
+        "type": "color"
+      },
+      "Hover": {
+        "value": "#1e40af",
+        "description": "",
+        "type": "color"
+      }
+    }
   }
 }
