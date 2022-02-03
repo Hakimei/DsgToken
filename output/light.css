@@ -1,22 +1,16 @@
 .light-theme {
-          --neutral-background-default: #fafaf9;
-  --neutral-background-subtle: #f5f5f4;
-  --neutral-background-muted: #e7e5e4;
-  --neutral-foreground-default: #f5f5f4;
-  --neutral-foreground-subtle: #e7e5e4;
-  --neutral-foreground-muted: #d6d3d1;
-  --neutral-primary-hover: #44403c;
-  --neutral-primary-normal: #57534e;
-  --neutral-text-header: #1c1917;
-  --neutral-text-body: #292524;
-  --neutral-text-ui: #44403c;
-  --neutral-text-on-primary: #fafaf9;
-  --neutral-text-link: #57534e;
-  --neutral-border-pressed: #44403c;
-  --neutral-border-hover: #57534e;
-  --neutral-border-normal: #a8a29e;
-  --neutral-selected-pressed: #a8a29e;
-  --neutral-selected-hover: #d6d3d1;
-  --neutral-selected-normal: #e7e5e4;
-  --button-shadow: [object Object];
+          --neutral-text-strong: #1c1917;
+  --neutral-text-default: #44403c;
+  --neutral-text-weak: #d6d3d1;
+  --neutral-background-default: #fafaf9;
+  --neutral-background-medium: #f5f5f4;
+  --neutral-background-strong: #e7e5e4;
+  --neutral-background-hover: #78716c08;
+  --neutral-background-active: #78716c0f;
+  --neutral-border-default: #d6d3d1;
+  --neutral-border-strong: #a8a29e;
+  --neutral-border-hover: #78716c;
+  --neutral-border-active: #57534e;
+  --neutral-icon-default: #57534e;
+  --neutral-icon-hover: #292524;
       }

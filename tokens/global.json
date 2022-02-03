@@ -940,8 +940,16 @@
     }
   },
   "_opacity": {
+    "3": {
+      "value": 0.03,
+      "type": "opacity"
+    },
     "4": {
       "value": 0.04,
+      "type": "opacity"
+    },
+    "6": {
+      "value": 0.06,
       "type": "opacity"
     },
     "8": {
