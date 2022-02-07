@@ -925,6 +925,56 @@
       }
     },
     "White": {
+      "4": {
+        "value": "#ffffff0a",
+        "description": "4%",
+        "type": "color"
+      },
+      "12": {
+        "value": "#ffffff1f",
+        "description": "12%",
+        "type": "color"
+      },
+      "20": {
+        "value": "#ffffff33",
+        "description": "20%",
+        "type": "color"
+      },
+      "32": {
+        "value": "#ffffff52",
+        "description": "32%",
+        "type": "color"
+      },
+      "40": {
+        "value": "#ffffff66",
+        "description": "40%",
+        "type": "color"
+      },
+      "52": {
+        "value": "#ffffff85",
+        "description": "52%",
+        "type": "color"
+      },
+      "60": {
+        "value": "#ffffff99",
+        "description": "60%",
+        "type": "color"
+      },
+      "72": {
+        "value": "#ffffffb8",
+        "description": "72%",
+        "type": "color"
+      },
+      "80": {
+        "value": "#ffffffcc",
+        "description": "80%",
+        "type": "color"
+      },
+      "92": {
+        "value": "#ffffffeb",
+        "description": "92%",
+        "type": "color"
+      },
       "100": {
         "value": "#ffffff",
         "description": "100%",
@@ -932,6 +982,56 @@
       }
     },
     "Black": {
+      "4": {
+        "value": "#1212120a",
+        "description": "4%",
+        "type": "color"
+      },
+      "12": {
+        "value": "#1212121f",
+        "description": "12%",
+        "type": "color"
+      },
+      "20": {
+        "value": "#12121233",
+        "description": "20%",
+        "type": "color"
+      },
+      "32": {
+        "value": "#12121252",
+        "description": "32%",
+        "type": "color"
+      },
+      "40": {
+        "value": "#12121266",
+        "description": "40%",
+        "type": "color"
+      },
+      "52": {
+        "value": "#12121285",
+        "description": "52%",
+        "type": "color"
+      },
+      "60": {
+        "value": "#12121299",
+        "description": "60%",
+        "type": "color"
+      },
+      "72": {
+        "value": "#121212b8",
+        "description": "72%",
+        "type": "color"
+      },
+      "80": {
+        "value": "#121212cc",
+        "description": "80%",
+        "type": "color"
+      },
+      "92": {
+        "value": "#121212eb",
+        "description": "92%",
+        "type": "color"
+      },
       "100": {
         "value": "#121212",
         "description": "100%",
