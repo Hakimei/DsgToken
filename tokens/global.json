@@ -1708,7 +1708,7 @@
     "lg": {
       "value": {
         "fontFamily": "Inter",
-        "fontWeight": "Semi Bold",
+        "fontWeight": "Bold",
         "lineHeight": "100%",
         "fontSize": 32,
         "letterSpacing": "-0.4px",
@@ -1722,7 +1722,7 @@
     "md": {
       "value": {
         "fontFamily": "Inter",
-        "fontWeight": "Semi Bold",
+        "fontWeight": "Bold",
         "lineHeight": "100%",
         "fontSize": 28,
         "letterSpacing": "-0.4px",
@@ -1738,7 +1738,7 @@
     "lg": {
       "value": {
         "fontFamily": "Inter",
-        "fontWeight": "Medium",
+        "fontWeight": "Semi Bold",
         "lineHeight": "100%",
         "fontSize": 28,
         "letterSpacing": "-0.4px",
@@ -1752,13 +1752,13 @@
     "md": {
       "value": {
         "fontFamily": "Inter",
-        "fontWeight": "Regular",
-        "lineHeight": "AUTO",
-        "fontSize": 18,
-        "letterSpacing": "0%",
-        "paragraphSpacing": 0,
-        "textDecoration": "none",
-        "textCase": "none"
+        "fontWeight": "Semi Bold",
+        "lineHeight": "100%",
+        "fontSize": 24,
+        "letterSpacing": "-0.4px",
+        "paragraphSpacing": 14,
+        "textDecoration": "%_line.no-underline",
+        "textCase": "capitalize"
       },
       "description": "Subtitle Medium",
       "type": "typography"
