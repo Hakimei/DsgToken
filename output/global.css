@@ -316,7 +316,9 @@
   --typescale-6: 6;
   --typescale-8: 8;
   --typescale-10: 10;
+  --typescale-11: 11;
   --typescale-12: 12;
+  --typescale-13: 13;
   --typescale-14: 14;
   --typescale-15: 15;
   --typescale-16: 16;
@@ -369,4 +371,11 @@
   --linebreak-16: 16;
   --uitext-h1: [object Object];
   --uitext-h2: [object Object];
+  --uitext-h3: [object Object];
+  --uitext-h4: [object Object];
+  --uitext-h5: [object Object];
+  --uitext-h6: [object Object];
+  --uitext-body-lg: [object Object];
+  --uitext-body: [object Object];
+  --uitext-body-sm: [object Object];
       }

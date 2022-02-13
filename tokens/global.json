@@ -1463,8 +1463,16 @@
       "value": 10,
       "type": "fontSizes"
     },
+    "11": {
+      "value": 11,
+      "type": "fontSizes"
+    },
     "12": {
       "value": 12,
+      "type": "fontSizes"
+    },
+    "13": {
+      "value": 13,
       "type": "fontSizes"
     },
     "14": {
@@ -1681,30 +1689,128 @@
   "_uitext": {
     "H1": {
       "value": {
-        "fontFamily": "_typeface.sans",
-        "fontWeight": "_font.800",
-        "lineHeight": "_leading.125",
-        "fontSize": "_typescale.48",
-        "letterSpacing": "_tracking.tight",
-        "paragraphSpacing": "_linebreak.12",
-        "textDecoration": "_transform.capitalize",
-        "textCase": "_line.no-underline"
+        "fontFamily": "Inter",
+        "fontWeight": "Extra Bold",
+        "lineHeight": "125%",
+        "fontSize": 48,
+        "letterSpacing": "-0.4px",
+        "paragraphSpacing": 12,
+        "textDecoration": "capitalize",
+        "textCase": "none"
       },
       "description": "Scale 1.25",
       "type": "typography"
     },
     "H2": {
       "value": {
-        "fontFamily": "_typeface.sans",
-        "fontWeight": "_font.700",
-        "lineHeight": "_leading.125",
-        "fontSize": "_typescale.38",
-        "letterSpacing": "_tracking.tight",
-        "paragraphSpacing": "_linebreak.12",
-        "textDecoration": "_transform.capitalize",
-        "textCase": "_line.no-underline"
+        "fontFamily": "Inter",
+        "fontWeight": "Bold",
+        "lineHeight": "125%",
+        "fontSize": 38,
+        "letterSpacing": "-0.4px",
+        "paragraphSpacing": 12,
+        "textDecoration": "capitalize",
+        "textCase": "none"
       },
       "description": "Scale 1.25",
+      "type": "typography"
+    },
+    "H3": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Semi Bold",
+        "lineHeight": "125%",
+        "fontSize": 30,
+        "letterSpacing": "0px",
+        "paragraphSpacing": 12,
+        "textDecoration": "capitalize",
+        "textCase": "none"
+      },
+      "description": "Scale 1.25",
+      "type": "typography"
+    },
+    "H4": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Semi Bold",
+        "lineHeight": "125%",
+        "fontSize": 24,
+        "letterSpacing": "0px",
+        "paragraphSpacing": 12,
+        "textDecoration": "capitalize",
+        "textCase": "none"
+      },
+      "description": "",
+      "type": "typography"
+    },
+    "H5": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Semi Bold",
+        "lineHeight": "125%",
+        "fontSize": 19,
+        "letterSpacing": "0.4px",
+        "paragraphSpacing": 12,
+        "textDecoration": "capitalize",
+        "textCase": "none"
+      },
+      "description": "",
+      "type": "typography"
+    },
+    "H6": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Medium",
+        "lineHeight": "125%",
+        "fontSize": 16,
+        "letterSpacing": "0.4px",
+        "paragraphSpacing": 12,
+        "textDecoration": "capitalize",
+        "textCase": "none"
+      },
+      "description": "",
+      "type": "typography"
+    },
+    "body-lg": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Regular",
+        "lineHeight": "125%",
+        "fontSize": 16,
+        "letterSpacing": "0px",
+        "paragraphSpacing": 14,
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "description": "",
+      "type": "typography"
+    },
+    "body": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Regular",
+        "lineHeight": "125%",
+        "fontSize": 13,
+        "letterSpacing": "0px",
+        "paragraphSpacing": 14,
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "description": "",
+      "type": "typography"
+    },
+    "body-sm": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Regular",
+        "lineHeight": "125%",
+        "fontSize": 11,
+        "letterSpacing": "0px",
+        "paragraphSpacing": 12,
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "description": "",
       "type": "typography"
     }
   }
