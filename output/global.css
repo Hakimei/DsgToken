@@ -294,7 +294,7 @@
   --sizing-64: 64;
   --sizing-128: 128;
   --sizing-256: 256;
-  --leading-100: 100%;
+  --leading-120: 120%;
   --leading-125: 125%;
   --leading-135: 135%;
   --leading-150: 150%;
@@ -335,6 +335,7 @@
   --typescale-40: 40;
   --typescale-42: 42;
   --typescale-44: 44;
+  --typescale-48: 48;
   --typescale-50: 50;
   --typescale-54: 54;
   --typescale-64: 64;
@@ -366,14 +367,6 @@
   --linebreak-12: 12;
   --linebreak-14: 14;
   --linebreak-16: 16;
-  --display-lg: [object Object];
-  --display-md: [object Object];
-  --title-lg: [object Object];
-  --title-md: [object Object];
-  --subtitle-lg: [object Object];
-  --subtitle-md: [object Object];
-  --body-text-xlg: [object Object];
-  --body-text-lg: [object Object];
-  --body-text-md: [object Object];
-  --body-text-sm: [object Object];
+  --uitext-h1: [object Object];
+  --uitext-h2: [object Object];
       }
