@@ -241,6 +241,9 @@
   --colors-black-80: #121212cc;
   --colors-black-90: #121212e6;
   --colors-black-100: #121212;
+  --colors-gradient-default: linear-gradient(90deg, #121212 0%, #ffffff 100%);
+  --colors-gradient-multi-color: linear-gradient(90deg, #6366f1 0%, #c303b2 33.33%, #ec0077 66.67%, #f43f5e 100%);
+  --colors-gradient-overlay: linear-gradient(180deg, #1212121a 0%, #12121280 100%);
   --opacity-3: 0.03;
   --opacity-4: 0.04;
   --opacity-6: 0.06;
