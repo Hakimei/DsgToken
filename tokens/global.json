@@ -1037,6 +1037,23 @@
         "description": "Opacity 100%",
         "type": "color"
       }
+    },
+    "Gradient": {
+      "default": {
+        "value": "linear-gradient(90deg, #121212 0%, #ffffff 100%)",
+        "description": "multiple color 2 colors",
+        "type": "color"
+      },
+      "multi-color": {
+        "value": "linear-gradient(90deg, #6366f1 0%, #c303b2 33.33%, #ec0077 66.67%, #f43f5e 100%)",
+        "description": "multiple color 3 colors",
+        "type": "color"
+      },
+      "overlay": {
+        "value": "linear-gradient(180deg, #1212121a 0%, #12121280 100%)",
+        "description": "multiple color 3 colors",
+        "type": "color"
+      }
     }
   },
   "_opacity": {
