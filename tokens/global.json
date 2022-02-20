@@ -1400,18 +1400,6 @@
       "type": "lineHeights"
     }
   },
-  "_typeface": {
-    "sans": {
-      "value": "Inter",
-      "type": "fontFamilies",
-      "description": "UI Text"
-    },
-    "mono": {
-      "value": "JetBrains Mono",
-      "description": "Code Text",
-      "type": "fontFamilies"
-    }
-  },
   "_font": {
     "100": {
       "value": "Thin",
@@ -1461,6 +1449,16 @@
     "950": {
       "value": "Extra Black",
       "type": "fontWeights"
+    },
+    "sans": {
+      "value": "Inter",
+      "type": "fontFamilies",
+      "description": "UI Text"
+    },
+    "mono": {
+      "value": "JetBrains Mono",
+      "description": "Code Text",
+      "type": "fontFamilies"
     }
   },
   "_typescale": {
