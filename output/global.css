@@ -303,8 +303,6 @@
   --leading-150: 150%;
   --leading-160: 160%;
   --leading-200: 200%;
-  --typeface-sans: Inter;
-  --typeface-mono: JetBrains Mono;
   --font-100: Thin;
   --font-200: Extra Light;
   --font-300: Light;
@@ -315,6 +313,8 @@
   --font-800: Extra Bold;
   --font-900: Black;
   --font-950: Extra Black;
+  --font-sans: Inter;
+  --font-mono: JetBrains Mono;
   --typescale-4: 4;
   --typescale-6: 6;
   --typescale-8: 8;
