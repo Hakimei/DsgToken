@@ -36,12 +36,14 @@
         "type": "color"
       },
       "Hover": {
-        "value": "#2925241f",
-        "type": "color"
+        "value": "rgba(#292524, $_opacity.12)",
+        "type": "color",
+        "failedToResolve": true
       },
       "Active": {
-        "value": "#1c191729",
-        "type": "color"
+        "value": "rgba(#1c1917, $_opacity.16)",
+        "type": "color",
+        "failedToResolve": true
       }
     },
     "Border": {
@@ -116,12 +118,14 @@
         "type": "color"
       },
       "Hover": {
-        "value": "#3f62121f",
-        "type": "color"
+        "value": "rgba(#3f6212, $_opacity.12)",
+        "type": "color",
+        "failedToResolve": true
       },
       "Active": {
-        "value": "#36531429",
-        "type": "color"
+        "value": "rgba(#365314, $_opacity.16)",
+        "type": "color",
+        "failedToResolve": true
       }
     },
     "Border": {
@@ -196,12 +200,14 @@
         "type": "color"
       },
       "Hover": {
-        "value": "#92400e1f",
-        "type": "color"
+        "value": "rgba(#92400e, $_opacity.12)",
+        "type": "color",
+        "failedToResolve": true
       },
       "Active": {
-        "value": "#78350f29",
-        "type": "color"
+        "value": "rgba(#78350f, $_opacity.16)",
+        "type": "color",
+        "failedToResolve": true
       }
     },
     "Border": {
@@ -276,12 +282,14 @@
         "type": "color"
       },
       "Hover": {
-        "value": "#9f12391f",
-        "type": "color"
+        "value": "rgba(#9f1239, $_opacity.12)",
+        "type": "color",
+        "failedToResolve": true
       },
       "Active": {
-        "value": "#88133729",
-        "type": "color"
+        "value": "rgba(#881337, $_opacity.16)",
+        "type": "color",
+        "failedToResolve": true
       }
     },
     "Border": {
@@ -356,12 +364,14 @@
         "type": "color"
       },
       "Hover": {
-        "value": "#1e40af1f",
-        "type": "color"
+        "value": "rgba(#1e40af, $_opacity.12)",
+        "type": "color",
+        "failedToResolve": true
       },
       "Active": {
-        "value": "#1e3a8a29",
-        "type": "color"
+        "value": "rgba(#1e3a8a, $_opacity.16)",
+        "type": "color",
+        "failedToResolve": true
       }
     },
     "Border": {

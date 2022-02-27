@@ -6,8 +6,8 @@
   --neutral-background-default: #fafaf9;
   --neutral-background-medium: #f5f5f4;
   --neutral-background-strong: #e7e5e4;
-  --neutral-background-hover: #2925241f;
-  --neutral-background-active: #1c191729;
+  --neutral-background-hover: rgba(#292524, $_opacity.12);
+  --neutral-background-active: rgba(#1c1917, $_opacity.16);
   --neutral-border-default: #d6d3d1;
   --neutral-border-strong: #a8a29e;
   --neutral-border-hover: #78716c;
@@ -21,8 +21,8 @@
   --success-background-default: #f7fee7;
   --success-background-medium: #ecfccb;
   --success-background-strong: #d9f99d;
-  --success-background-hover: #3f62121f;
-  --success-background-active: #36531429;
+  --success-background-hover: rgba(#3f6212, $_opacity.12);
+  --success-background-active: rgba(#365314, $_opacity.16);
   --success-border-default: #bef264;
   --success-border-strong: #a3e635;
   --success-border-hover: #84cc16;
@@ -36,8 +36,8 @@
   --warning-background-default: #fffbeb;
   --warning-background-medium: #fef3c7;
   --warning-background-strong: #fde68a;
-  --warning-background-hover: #92400e1f;
-  --warning-background-active: #78350f29;
+  --warning-background-hover: rgba(#92400e, $_opacity.12);
+  --warning-background-active: rgba(#78350f, $_opacity.16);
   --warning-border-default: #fcd34d;
   --warning-border-strong: #fbbf24;
   --warning-border-hover: #f59e0b;
@@ -51,8 +51,8 @@
   --negative-background-default: #fff1f2;
   --negative-background-medium: #ffe4e6;
   --negative-background-strong: #fecdd3;
-  --negative-background-hover: #9f12391f;
-  --negative-background-active: #88133729;
+  --negative-background-hover: rgba(#9f1239, $_opacity.12);
+  --negative-background-active: rgba(#881337, $_opacity.16);
   --negative-border-default: #fda4af;
   --negative-border-strong: #fb7185;
   --negative-border-hover: #f43f5e;
@@ -66,8 +66,8 @@
   --info-background-default: #eff6ff;
   --info-background-medium: #dbeafe;
   --info-background-strong: #bfdbfe;
-  --info-background-hover: #1e40af1f;
-  --info-background-active: #1e3a8a29;
+  --info-background-hover: rgba(#1e40af, $_opacity.12);
+  --info-background-active: rgba(#1e3a8a, $_opacity.16);
   --info-border-default: #93c5fd;
   --info-border-strong: #60a5fa;
   --info-border-hover: #3b82f6;
