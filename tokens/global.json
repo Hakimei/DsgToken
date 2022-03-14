@@ -1666,6 +1666,11 @@
     }
   },
   "_lineHeight": {
+    "115": {
+      "value": "115%",
+      "description": "line-height: 115%",
+      "type": "lineHeights"
+    },
     "120": {
       "value": "120%",
       "description": "line-height: 120%",
