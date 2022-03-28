@@ -302,10 +302,12 @@
   --sizing-64: 64;
   --sizing-128: 128;
   --sizing-256: 256;
+  --line-height-100: 100%;
   --line-height-115: 115%;
   --line-height-120: 120%;
   --line-height-125: 125%;
   --line-height-135: 135%;
+  --line-height-140: 140%;
   --line-height-150: 150%;
   --line-height-160: 160%;
   --line-height-200: 200%;
@@ -367,6 +369,7 @@
   --text-decoration-no-underline: none;
   --font-spacing-tighter: -0.8px;
   --font-spacing-tight: -0.4px;
+  --font-spacing-compact: -0.2px;
   --font-spacing-normal: 0px;
   --font-spacing-wide: 0.4px;
   --font-spacing-wider: 0.8px;
@@ -375,6 +378,7 @@
   --font-transform-lowercase: lowercase;
   --font-transform-capitalize: capitalize;
   --font-transform-normalcase: none;
+  --paragraph-spacing-0: 0;
   --paragraph-spacing-12: 12;
   --paragraph-spacing-14: 14;
   --paragraph-spacing-16: 16;
@@ -387,4 +391,14 @@
   --ui-text-body-lg: [object Object];
   --ui-text-body: [object Object];
   --ui-text-body-sm: [object Object];
+  --style-h90: [object Object];
+  --style-h80: [object Object];
+  --style-h70: [object Object];
+  --style-h60: [object Object];
+  --style-h55: [object Object];
+  --style-h50: [object Object];
+  --style-h40: [object Object];
+  --style-h30: [object Object];
+  --style-h20: [object Object];
+  --style-h10: [object Object];
       }
