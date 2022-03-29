@@ -306,8 +306,10 @@
   --line-height-115: 115%;
   --line-height-120: 120%;
   --line-height-125: 125%;
+  --line-height-133: 133%;
   --line-height-135: 135%;
   --line-height-140: 140%;
+  --line-height-143: 143%;
   --line-height-145: 145%;
   --line-height-150: 150%;
   --line-height-155: 155%;
@@ -402,4 +404,10 @@
   --title-xl: [object Object];
   --title-lg: [object Object];
   --title-md: [object Object];
+  --sentence-lg: [object Object];
+  --sentence-md: [object Object];
+  --sentence-sm: [object Object];
+  --paragraph-xl: [object Object];
+  --paragraph-lg: [object Object];
+  --paragraph-md: [object Object];
       }
