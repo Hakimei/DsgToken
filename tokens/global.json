@@ -2211,7 +2211,7 @@
       "type": "typography"
     }
   },
-  "style": {
+  "_display": {
     "H90": {
       "value": {
         "fontFamily": "Inter",
@@ -2335,6 +2335,73 @@
         "fontWeight": "Bold",
         "lineHeight": "135%",
         "fontSize": 12,
+        "letterSpacing": "-0.2px",
+        "paragraphSpacing": 0,
+        "textDecoration": "none",
+        "textCase": "capitalize"
+      },
+      "type": "typography"
+    }
+  },
+  "_body": {
+    "xl": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Medium",
+        "lineHeight": "160%",
+        "fontSize": 20,
+        "letterSpacing": "0px",
+        "paragraphSpacing": 0,
+        "textDecoration": "none",
+        "textCase": "capitalize"
+      },
+      "type": "typography"
+    },
+    "lg": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Medium",
+        "lineHeight": "150%",
+        "fontSize": 16,
+        "letterSpacing": "0px",
+        "paragraphSpacing": 0,
+        "textDecoration": "none",
+        "textCase": "capitalize"
+      },
+      "type": "typography"
+    },
+    "md": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Medium",
+        "lineHeight": "140%",
+        "fontSize": 14,
+        "letterSpacing": "0px",
+        "paragraphSpacing": 0,
+        "textDecoration": "none",
+        "textCase": "capitalize"
+      },
+      "type": "typography"
+    },
+    "sm": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Medium",
+        "lineHeight": "135%",
+        "fontSize": 12,
+        "letterSpacing": "0px",
+        "paragraphSpacing": 0,
+        "textDecoration": "none",
+        "textCase": "capitalize"
+      },
+      "type": "typography"
+    },
+    "xs": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Medium",
+        "lineHeight": "160%",
+        "fontSize": 10,
         "letterSpacing": "-0.2px",
         "paragraphSpacing": 0,
         "textDecoration": "none",
