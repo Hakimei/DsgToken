@@ -1696,9 +1696,19 @@
       "description": "line-height: 140%",
       "type": "lineHeights"
     },
+    "145": {
+      "value": "145%",
+      "description": "line-height: 145%",
+      "type": "lineHeights"
+    },
     "150": {
       "value": "150%",
       "description": "line-height: 150%",
+      "type": "lineHeights"
+    },
+    "155": {
+      "value": "155%",
+      "description": "line-height: 155%",
       "type": "lineHeights"
     },
     "160": {
@@ -2083,135 +2093,7 @@
       "type": "paragraphSpacing"
     }
   },
-  "_uiText": {
-    "H1": {
-      "value": {
-        "fontFamily": "Inter",
-        "fontWeight": "Extra Bold",
-        "lineHeight": "125%",
-        "fontSize": 48,
-        "letterSpacing": "-0.4px",
-        "paragraphSpacing": 12,
-        "textDecoration": "none",
-        "textCase": "capitalize"
-      },
-      "description": "Scale 1.25",
-      "type": "typography"
-    },
-    "H2": {
-      "value": {
-        "fontFamily": "Inter",
-        "fontWeight": "Bold",
-        "lineHeight": "125%",
-        "fontSize": 38,
-        "letterSpacing": "-0.4px",
-        "paragraphSpacing": 12,
-        "textDecoration": "none",
-        "textCase": "capitalize"
-      },
-      "description": "Scale 1.25",
-      "type": "typography"
-    },
-    "H3": {
-      "value": {
-        "fontFamily": "Inter",
-        "fontWeight": "Semi Bold",
-        "lineHeight": "125%",
-        "fontSize": 30,
-        "letterSpacing": "0px",
-        "paragraphSpacing": 12,
-        "textDecoration": "none",
-        "textCase": "capitalize"
-      },
-      "description": "Scale 1.25",
-      "type": "typography"
-    },
-    "H4": {
-      "value": {
-        "fontFamily": "Inter",
-        "fontWeight": "Semi Bold",
-        "lineHeight": "125%",
-        "fontSize": 24,
-        "letterSpacing": "0px",
-        "paragraphSpacing": 12,
-        "textDecoration": "none",
-        "textCase": "capitalize"
-      },
-      "description": "Scale 1.25",
-      "type": "typography"
-    },
-    "H5": {
-      "value": {
-        "fontFamily": "Inter",
-        "fontWeight": "Semi Bold",
-        "lineHeight": "125%",
-        "fontSize": 19,
-        "letterSpacing": "0.4px",
-        "paragraphSpacing": 12,
-        "textDecoration": "none",
-        "textCase": "capitalize"
-      },
-      "description": "Scale 1.25",
-      "type": "typography"
-    },
-    "H6": {
-      "value": {
-        "fontFamily": "Inter",
-        "fontWeight": "Medium",
-        "lineHeight": "125%",
-        "fontSize": 16,
-        "letterSpacing": "0.4px",
-        "paragraphSpacing": 12,
-        "textDecoration": "none",
-        "textCase": "capitalize"
-      },
-      "description": "Scale 1.25",
-      "type": "typography"
-    },
-    "body-lg": {
-      "value": {
-        "fontFamily": "Inter",
-        "fontWeight": "Regular",
-        "lineHeight": "125%",
-        "fontSize": 16,
-        "letterSpacing": "0px",
-        "paragraphSpacing": 14,
-        "textDecoration": "none",
-        "textCase": "none"
-      },
-      "description": "Scale 1.25",
-      "type": "typography"
-    },
-    "body": {
-      "value": {
-        "fontFamily": "Inter",
-        "fontWeight": "Regular",
-        "lineHeight": "125%",
-        "fontSize": 13,
-        "letterSpacing": "0px",
-        "paragraphSpacing": 14,
-        "textDecoration": "none",
-        "textCase": "none"
-      },
-      "description": "Scale 1.25",
-      "type": "typography"
-    },
-    "body-sm": {
-      "value": {
-        "fontFamily": "Inter",
-        "fontWeight": "Regular",
-        "lineHeight": "125%",
-        "fontSize": 11,
-        "letterSpacing": "0px",
-        "paragraphSpacing": 12,
-        "textDecoration": "none",
-        "textCase": "none"
-      },
-      "description": "Scale 1.25",
-      "type": "typography"
-    }
-  },
-  "_display": {
+  "_heading": {
     "H90": {
       "value": {
         "fontFamily": "Inter",
@@ -2223,7 +2105,8 @@
         "textDecoration": "none",
         "textCase": "capitalize"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "body-case: ui"
     },
     "H80": {
       "value": {
@@ -2236,7 +2119,8 @@
         "textDecoration": "none",
         "textCase": "capitalize"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "body-case: ui"
     },
     "H70": {
       "value": {
@@ -2249,7 +2133,8 @@
         "textDecoration": "none",
         "textCase": "capitalize"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "body-case: ui"
     },
     "H60": {
       "value": {
@@ -2262,7 +2147,8 @@
         "textDecoration": "none",
         "textCase": "capitalize"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "body-case: ui"
     },
     "H55": {
       "value": {
@@ -2275,7 +2161,8 @@
         "textDecoration": "none",
         "textCase": "capitalize"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "body-case: ui"
     },
     "H50": {
       "value": {
@@ -2288,7 +2175,8 @@
         "textDecoration": "none",
         "textCase": "capitalize"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "body-case: ui"
     },
     "H40": {
       "value": {
@@ -2301,7 +2189,8 @@
         "textDecoration": "none",
         "textCase": "capitalize"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "body-case: ui"
     },
     "H30": {
       "value": {
@@ -2314,7 +2203,8 @@
         "textDecoration": "none",
         "textCase": "capitalize"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "body-case: ui"
     },
     "H20": {
       "value": {
@@ -2327,7 +2217,8 @@
         "textDecoration": "none",
         "textCase": "capitalize"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "body-case: ui"
     },
     "H10": {
       "value": {
@@ -2340,10 +2231,11 @@
         "textDecoration": "none",
         "textCase": "capitalize"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "body-case: ui"
     }
   },
-  "_body": {
+  "_uiText": {
     "xl": {
       "value": {
         "fontFamily": "Inter",
@@ -2355,7 +2247,8 @@
         "textDecoration": "none",
         "textCase": "capitalize"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "body-case: ui"
     },
     "lg": {
       "value": {
@@ -2368,7 +2261,8 @@
         "textDecoration": "none",
         "textCase": "capitalize"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "body-case: ui"
     },
     "md": {
       "value": {
@@ -2381,7 +2275,8 @@
         "textDecoration": "none",
         "textCase": "capitalize"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "body-case: ui"
     },
     "sm": {
       "value": {
@@ -2394,7 +2289,8 @@
         "textDecoration": "none",
         "textCase": "capitalize"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "body-case: ui"
     },
     "xs": {
       "value": {
@@ -2407,7 +2303,52 @@
         "textDecoration": "none",
         "textCase": "capitalize"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "body-case: ui"
+    }
+  },
+  "_title": {
+    "xl": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Semi Bold",
+        "lineHeight": "145%",
+        "fontSize": 18,
+        "letterSpacing": "-0.2px",
+        "paragraphSpacing": 0,
+        "textDecoration": "none",
+        "textCase": "capitalize"
+      },
+      "type": "typography",
+      "description": "body-case: sentence"
+    },
+    "lg": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Semi Bold",
+        "lineHeight": "150%",
+        "fontSize": 16,
+        "letterSpacing": "-0.2px",
+        "paragraphSpacing": 0,
+        "textDecoration": "none",
+        "textCase": "capitalize"
+      },
+      "type": "typography",
+      "description": "body-case: sentence"
+    },
+    "md": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Semi Bold",
+        "lineHeight": "150%",
+        "fontSize": 14,
+        "letterSpacing": "-0.2px",
+        "paragraphSpacing": 0,
+        "textDecoration": "none",
+        "textCase": "capitalize"
+      },
+      "type": "typography",
+      "description": "body-case: sentence"
     }
   }
 }
