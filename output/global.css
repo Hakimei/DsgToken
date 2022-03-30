@@ -412,4 +412,7 @@
   --primitive-typography-paragraph-xl: [object Object];
   --primitive-typography-paragraph-lg: [object Object];
   --primitive-typography-paragraph-md: [object Object];
+  --primitive-typography-button-lg: [object Object];
+  --primitive-typography-button-md: [object Object];
+  --primitive-typography-button-sm: [object Object];
       }
