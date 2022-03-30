@@ -2459,6 +2459,50 @@
         "type": "typography",
         "description": "body-case: paragraph"
       }
+    },
+    "button": {
+      "lg": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Semi Bold",
+          "lineHeight": "150%",
+          "fontSize": 16,
+          "letterSpacing": "0px",
+          "paragraphSpacing": 0,
+          "textDecoration": "none",
+          "textCase": "capitalize"
+        },
+        "type": "typography",
+        "description": "body-case: button text"
+      },
+      "md": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Semi Bold",
+          "lineHeight": "143%",
+          "fontSize": 14,
+          "letterSpacing": "0px",
+          "paragraphSpacing": 0,
+          "textDecoration": "none",
+          "textCase": "capitalize"
+        },
+        "type": "typography",
+        "description": "body-case: button text"
+      },
+      "sm": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Semi Bold",
+          "lineHeight": "133%",
+          "fontSize": 12,
+          "letterSpacing": "0px",
+          "paragraphSpacing": 0,
+          "textDecoration": "none",
+          "textCase": "capitalize"
+        },
+        "type": "typography",
+        "description": "body-case: button text"
+      }
     }
   }
 }
