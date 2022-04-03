@@ -1,6 +1,6 @@
 {
-  "_colors": {
-    "Slate": {
+  "_color": {
+    "slate": {
       "50": {
         "value": "#f8fafc",
         "description": "color: slate-50",
@@ -52,7 +52,7 @@
         "type": "color"
       }
     },
-    "Gray": {
+    "gray": {
       "50": {
         "value": "#f9fafb",
         "description": "color: gray-50",
@@ -104,7 +104,7 @@
         "type": "color"
       }
     },
-    "Zinc": {
+    "zinc": {
       "50": {
         "value": "#fafafa",
         "description": "color: zinc-50",
@@ -156,7 +156,7 @@
         "type": "color"
       }
     },
-    "Neutral": {
+    "neutral": {
       "50": {
         "value": "#fafafa",
         "description": "color: neutral-50",
@@ -208,7 +208,7 @@
         "type": "color"
       }
     },
-    "Stone": {
+    "stone": {
       "50": {
         "value": "#fafaf9",
         "description": "color: stone-50",
@@ -260,7 +260,7 @@
         "type": "color"
       }
     },
-    "Red": {
+    "red": {
       "50": {
         "value": "#fef2f2",
         "description": "color: red-50",
@@ -312,7 +312,7 @@
         "type": "color"
       }
     },
-    "Orange": {
+    "orange": {
       "50": {
         "value": "#fff7ed",
         "description": "color: orange-50",
@@ -364,7 +364,7 @@
         "type": "color"
       }
     },
-    "Amber": {
+    "amber": {
       "50": {
         "value": "#fffbeb",
         "description": "color: amber-50",
@@ -416,7 +416,7 @@
         "type": "color"
       }
     },
-    "Yellow": {
+    "yellow": {
       "50": {
         "value": "#fefce8",
         "description": "color: yellow-50",
@@ -468,7 +468,7 @@
         "type": "color"
       }
     },
-    "Lime": {
+    "lime": {
       "50": {
         "value": "#f7fee7",
         "description": "color: lime-50",
@@ -520,7 +520,7 @@
         "type": "color"
       }
     },
-    "Green": {
+    "green": {
       "50": {
         "value": "#f0fdf4",
         "description": "color: green-50",
@@ -572,7 +572,7 @@
         "type": "color"
       }
     },
-    "Emerald": {
+    "emerald": {
       "50": {
         "value": "#ecfdf5",
         "description": "color: emerald-50",
@@ -624,7 +624,7 @@
         "type": "color"
       }
     },
-    "Teal": {
+    "teal": {
       "50": {
         "value": "#f0fdfa",
         "description": "color: teal-50",
@@ -676,7 +676,7 @@
         "type": "color"
       }
     },
-    "Cyan": {
+    "cyan": {
       "50": {
         "value": "#ecfeff",
         "description": "color: cyan-50",
@@ -728,7 +728,7 @@
         "type": "color"
       }
     },
-    "Sky": {
+    "sky": {
       "50": {
         "value": "#f0f9ff",
         "description": "color: sky-50",
@@ -780,7 +780,7 @@
         "type": "color"
       }
     },
-    "Blue": {
+    "blue": {
       "50": {
         "value": "#eff6ff",
         "description": "color: blue-50",
@@ -832,7 +832,7 @@
         "type": "color"
       }
     },
-    "Indigo": {
+    "indigo": {
       "50": {
         "value": "#eef2ff",
         "description": "color: indigo-50",
@@ -884,7 +884,7 @@
         "type": "color"
       }
     },
-    "Violet": {
+    "violet": {
       "50": {
         "value": "#f5f3ff",
         "description": "color: violet-50",
@@ -936,7 +936,7 @@
         "type": "color"
       }
     },
-    "Purple": {
+    "purple": {
       "50": {
         "value": "#faf5ff",
         "description": "color: purple-50",
@@ -988,7 +988,7 @@
         "type": "color"
       }
     },
-    "Fuchsia": {
+    "fuchsia": {
       "50": {
         "value": "#fdf4ff",
         "description": "color: fuchsia-50",
@@ -1040,7 +1040,7 @@
         "type": "color"
       }
     },
-    "Pink": {
+    "pink": {
       "50": {
         "value": "#fdf2f8",
         "description": "color: pink-50",
@@ -1092,7 +1092,7 @@
         "type": "color"
       }
     },
-    "Rose": {
+    "rose": {
       "50": {
         "value": "#fff1f2",
         "description": "color: rose-50",
@@ -1144,7 +1144,7 @@
         "type": "color"
       }
     },
-    "White": {
+    "white": {
       "5": {
         "value": "#ffffff0d",
         "description": "color: white alpha 5%",
@@ -1201,7 +1201,7 @@
         "type": "color"
       }
     },
-    "Black": {
+    "black": {
       "5": {
         "value": "#1212120d",
         "description": "color: black alpha 5%",
@@ -1784,12 +1784,12 @@
       "type": "fontWeights"
     },
     "900": {
-      "value": "Black",
+      "value": "black",
       "description": "font-weight: black; 900; Inter",
       "type": "fontWeights"
     },
     "950": {
-      "value": "Extra Black",
+      "value": "Extra black",
       "description": "font-weight: extrablack; 950",
       "type": "fontWeights"
     }
@@ -2113,7 +2113,7 @@
       "type": "paragraphSpacing"
     }
   },
-  "_primitiveTypography": {
+  "_sys": {
     "heading": {
       "H90": {
         "value": {
