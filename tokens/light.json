@@ -1,1 +1,14 @@
-{}
+{
+  "primary": {
+    "bg": {
+      "default": {
+        "value": "#0091ff",
+        "type": "color"
+      },
+      "default-weak": {
+        "value": "#cee7fe",
+        "type": "color"
+      }
+    }
+  }
+}
