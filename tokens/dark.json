@@ -10,5 +10,13 @@
         "type": "color"
       }
     }
+  },
+  "danger": {
+    "bg": {
+      "default": {
+        "value": "#e5484d",
+        "type": "color"
+      }
+    }
   }
 }
