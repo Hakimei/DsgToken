@@ -1,5 +1,5 @@
 {
-  "global": {
+  "_global": {
     "slate": {
       "1": {
         "value": "#fbfcfd",
@@ -1559,19 +1559,22 @@
       },
       "config": {
         "linear-color": {
-          "value": "linear-gradient(90deg, #e5484d 0%, #f5d90a 100%)",
+          "value": "linear-gradient(90deg, $global.red.9 0%, $global.yellow.9 100%)",
           "description": "linear-gradient: background",
-          "type": "color"
+          "type": "color",
+          "failedToResolve": true
         },
         "multi-color": {
-          "value": "linear-gradient(90deg, #e5484d 0%, #DE4983 25%, #D64AB3 50%, #C04CCE 75%, #8e4ec6 100%)",
+          "value": "linear-gradient(90deg, $global.red.9 0%, #DE4983 25%, #D64AB3 50%, #C04CCE 75%, $global.purple.9 100%)",
           "description": "linear-gradient: hero banner",
-          "type": "color"
+          "type": "color",
+          "failedToResolve": true
         },
         "overlay": {
-          "value": "linear-gradient(180deg, #11181c1a 0%, #11181c80 100%)",
+          "value": "linear-gradient(180deg, rgba($global.slate.12, 0.10) 0%, rgba($global.slate.12, 0.5) 100%)",
           "description": "linear-gradient: overlay",
-          "type": "color"
+          "type": "color",
+          "failedToResolve": true
         }
       }
     }
