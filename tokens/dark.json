@@ -521,6 +521,12 @@
         "type": "color",
         "description": "low-contrast text"
       }
+    },
+    "transparent": {
+      "container": {
+        "value": "hsla(0, 0%, 100%, 0%)",
+        "type": "color"
+      }
     }
   }
 }
