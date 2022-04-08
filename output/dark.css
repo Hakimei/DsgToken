@@ -101,4 +101,5 @@
   --theme-info-text-hover: #52a9ff;
   --theme-info-icon: #eaf6ff;
   --theme-info-icon-hover: #52a9ff;
+  --theme-transparent-container: hsla(0, 0%, 100%, 0%);
       }
