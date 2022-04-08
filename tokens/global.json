@@ -1,5 +1,5 @@
 {
-  "color": {
+  "global": {
     "slate": {
       "1": {
         "value": "#fbfcfd",
@@ -1569,10 +1569,9 @@
           "type": "color"
         },
         "overlay": {
-          "value": "linear-gradient(180deg, rgba($color.gray.12, 0.10) 0%, rgba($color.gray.12, 0.5) 100%)",
+          "value": "linear-gradient(180deg, #11181c1a 0%, #11181c80 100%)",
           "description": "linear-gradient: overlay",
-          "type": "color",
-          "failedToResolve": true
+          "type": "color"
         }
       }
     }
