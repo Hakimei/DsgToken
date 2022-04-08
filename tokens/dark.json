@@ -1,22 +1,524 @@
 {
-  "primary": {
+  "neutral": {
     "bg": {
-      "default": {
-        "value": "#0091ff",
-        "type": "color"
-      },
-      "default-weak": {
-        "value": "#0f3058",
-        "type": "color"
-      }
+      "value": "#151718",
+      "type": "color",
+      "description": "App background"
+    },
+    "bg-subtle": {
+      "value": "#1a1d1e",
+      "type": "color",
+      "description": "Subtle background"
+    },
+    "container": {
+      "value": "#0025490e",
+      "type": "color",
+      "description": "UI element background with low-contrast text"
+    },
+    "container-hover": {
+      "value": "#021c3713",
+      "type": "color",
+      "description": "Hovered UI element background"
+    },
+    "container-active": {
+      "value": "#02173519",
+      "type": "color",
+      "description": "Active UI element background"
+    },
+    "selected": {
+      "value": "#021c3713",
+      "type": "color",
+      "description": "Selected UI element background"
+    },
+    "selected-hover": {
+      "value": "#02173519",
+      "type": "color",
+      "description": "Selected Hovered UI element background"
+    },
+    "selected-active": {
+      "value": "#01213920",
+      "type": "color",
+      "description": "Selected Active UI element background"
+    },
+    "border": {
+      "value": "#313538",
+      "type": "color",
+      "description": "Subtle borders and separators, dividers"
+    },
+    "outline": {
+      "value": "#001a3328",
+      "type": "color",
+      "description": "UI element border and focus rings"
+    },
+    "outline-hover": {
+      "value": "#011e323e",
+      "type": "color",
+      "description": "Hovered UI element border"
+    },
+    "bg-solid": {
+      "value": "#697177",
+      "type": "color",
+      "description": "Solid backgrounds, AAL semibold - white text"
+    },
+    "bg-solid-hover": {
+      "value": "#787f85",
+      "type": "color",
+      "description": "Hovered solid backgrounds"
+    },
+    "text": {
+      "value": "#ecedee",
+      "type": "color",
+      "description": "high-contrast text"
+    },
+    "text-hover": {
+      "value": "#9ba1a6",
+      "type": "color",
+      "description": "low-contrast text"
+    },
+    "icon": {
+      "value": "#ecedee",
+      "type": "color",
+      "description": "high-contrast text"
+    },
+    "icon-hover": {
+      "value": "#9ba1a6",
+      "type": "color",
+      "description": "low-contrast text"
     }
   },
-  "danger": {
+  "primary": {
     "bg": {
-      "default": {
-        "value": "#e5484d",
-        "type": "color"
-      }
+      "value": "#0f1720",
+      "type": "color",
+      "description": "App background"
+    },
+    "bg-subtle": {
+      "value": "#0f1b2d",
+      "type": "color",
+      "description": "Subtle background"
+    },
+    "container": {
+      "value": "#0280ff12",
+      "type": "color",
+      "description": "UI element background with low-contrast text"
+    },
+    "container-hover": {
+      "value": "#0180ff1e",
+      "type": "color",
+      "description": "Hovered UI element background"
+    },
+    "container-active": {
+      "value": "#0180ef30",
+      "type": "color",
+      "description": "Active UI element background"
+    },
+    "selected": {
+      "value": "#0180ff1e",
+      "type": "color",
+      "description": "Selected UI element background"
+    },
+    "selected-hover": {
+      "value": "#0180ef30",
+      "type": "color",
+      "description": "Selected Hovered UI element background"
+    },
+    "selected-active": {
+      "value": "#0177e648",
+      "type": "color",
+      "description": "Selected Active UI element background"
+    },
+    "border": {
+      "value": "#0d3868",
+      "type": "color",
+      "description": "Subtle borders and separators, dividers"
+    },
+    "outline": {
+      "value": "#0077df69",
+      "type": "color",
+      "description": "UI element border and focus rings"
+    },
+    "outline-hover": {
+      "value": "#0082e6a1",
+      "type": "color",
+      "description": "Hovered UI element border"
+    },
+    "bg-solid": {
+      "value": "#0091ff",
+      "type": "color",
+      "description": "Solid backgrounds, AAL semibold - white text"
+    },
+    "bg-solid-hover": {
+      "value": "#369eff",
+      "type": "color",
+      "description": "Hovered solid backgrounds"
+    },
+    "text": {
+      "value": "#eaf6ff",
+      "type": "color",
+      "description": "high-contrast text"
+    },
+    "text-hover": {
+      "value": "#52a9ff",
+      "type": "color",
+      "description": "low-contrast text"
+    },
+    "icon": {
+      "value": "#eaf6ff",
+      "type": "color",
+      "description": "high-contrast text"
+    },
+    "icon-hover": {
+      "value": "#52a9ff",
+      "type": "color",
+      "description": "low-contrast text"
+    }
+  },
+  "negative": {
+    "bg": {
+      "value": "#1f1315",
+      "type": "color",
+      "description": "App background"
+    },
+    "bg-subtle": {
+      "value": "#291415",
+      "type": "color",
+      "description": "Subtle background"
+    },
+    "container": {
+      "value": "#ff010110",
+      "type": "color",
+      "description": "UI element background with low-contrast text"
+    },
+    "container-hover": {
+      "value": "#ff00001a",
+      "type": "color",
+      "description": "Hovered UI element background"
+    },
+    "container-active": {
+      "value": "#f2000027",
+      "type": "color",
+      "description": "Active UI element background"
+    },
+    "selected": {
+      "value": "#ff00001a",
+      "type": "color",
+      "description": "Selected UI element background"
+    },
+    "selected-hover": {
+      "value": "#f2000027",
+      "type": "color",
+      "description": "Selected Hovered UI element background"
+    },
+    "selected-active": {
+      "value": "#e4010139",
+      "type": "color",
+      "description": "Selected Active UI element background"
+    },
+    "border": {
+      "value": "#671e22",
+      "type": "color",
+      "description": "Subtle borders and separators, dividers"
+    },
+    "outline": {
+      "value": "#d9000451",
+      "type": "color",
+      "description": "UI element border and focus rings"
+    },
+    "outline-hover": {
+      "value": "#d100046f",
+      "type": "color",
+      "description": "Hovered UI element border"
+    },
+    "bg-solid": {
+      "value": "#e5484d",
+      "type": "color",
+      "description": "Solid backgrounds, AAL semibold - white text"
+    },
+    "bg-solid-hover": {
+      "value": "#f2555a",
+      "type": "color",
+      "description": "Hovered solid backgrounds"
+    },
+    "text": {
+      "value": "#feecee",
+      "type": "color",
+      "description": "high-contrast text"
+    },
+    "text-hover": {
+      "value": "#ff6369",
+      "type": "color",
+      "description": "low-contrast text"
+    },
+    "icon": {
+      "value": "#feecee",
+      "type": "color",
+      "description": "high-contrast text"
+    },
+    "icon-hover": {
+      "value": "#ff6369",
+      "type": "color",
+      "description": "low-contrast text"
+    }
+  },
+  "warning": {
+    "bg": {
+      "value": "#1c1500",
+      "type": "color",
+      "description": "App background"
+    },
+    "bg-subtle": {
+      "value": "#221a00",
+      "type": "color",
+      "description": "Subtle background"
+    },
+    "container": {
+      "value": "#ffea012e",
+      "type": "color",
+      "description": "UI element background with low-contrast text"
+    },
+    "container-hover": {
+      "value": "#ffe60144",
+      "type": "color",
+      "description": "Hoveyellow UI element background"
+    },
+    "container-active": {
+      "value": "#fcdb005b",
+      "type": "color",
+      "description": "Active UI element background"
+    },
+    "selected": {
+      "value": "#ffe60144",
+      "type": "color",
+      "description": "Selected UI element background"
+    },
+    "selected-hover": {
+      "value": "#fcdb005b",
+      "type": "color",
+      "description": "Selected Hoveyellow UI element background"
+    },
+    "selected-active": {
+      "value": "#f2c90073",
+      "type": "color",
+      "description": "Selected Active UI element background"
+    },
+    "border": {
+      "value": "#493c00",
+      "type": "color",
+      "description": "Subtle borders and separators, dividers"
+    },
+    "outline": {
+      "value": "#e3b20093",
+      "type": "color",
+      "description": "UI element border and focus rings"
+    },
+    "outline-hover": {
+      "value": "#ebbc00fa",
+      "type": "color",
+      "description": "Hoveyellow UI element border"
+    },
+    "bg-solid": {
+      "value": "#f5d90a",
+      "type": "color",
+      "description": "Solid backgrounds, AAL semibold - white text"
+    },
+    "bg-solid-hover": {
+      "value": "#ffef5c",
+      "type": "color",
+      "description": "Hoveyellow solid backgrounds"
+    },
+    "text": {
+      "value": "#fffad1",
+      "type": "color",
+      "description": "high-contrast text"
+    },
+    "text-hover": {
+      "value": "#f0c000",
+      "type": "color",
+      "description": "low-contrast text"
+    },
+    "icon": {
+      "value": "#fffad1",
+      "type": "color",
+      "description": "high-contrast text"
+    },
+    "icon-hover": {
+      "value": "#f0c000",
+      "type": "color",
+      "description": "low-contrast text"
+    }
+  },
+  "positive": {
+    "bg": {
+      "value": "#0d1912",
+      "type": "color",
+      "description": "App background"
+    },
+    "bg-subtle": {
+      "value": "#0c1f17",
+      "type": "color",
+      "description": "Subtle background"
+    },
+    "container": {
+      "value": "#02ba3c16",
+      "type": "color",
+      "description": "UI element background with low-contrast text"
+    },
+    "container-hover": {
+      "value": "#01a63522",
+      "type": "color",
+      "description": "Hovegreen UI element background"
+    },
+    "container-active": {
+      "value": "#009b3633",
+      "type": "color",
+      "description": "Active UI element background"
+    },
+    "selected": {
+      "value": "#01a63522",
+      "type": "color",
+      "description": "Selected UI element background"
+    },
+    "selected-hover": {
+      "value": "#009b3633",
+      "type": "color",
+      "description": "Selected Hovegreen UI element background"
+    },
+    "selected-active": {
+      "value": "#0193364b",
+      "type": "color",
+      "description": "Selected Active UI element background"
+    },
+    "border": {
+      "value": "#164430",
+      "type": "color",
+      "description": "Subtle borders and separators, dividers"
+    },
+    "outline": {
+      "value": "#008c3d6d",
+      "type": "color",
+      "description": "UI element border and focus rings"
+    },
+    "outline-hover": {
+      "value": "#00934ca4",
+      "type": "color",
+      "description": "Hovegreen UI element border"
+    },
+    "bg-solid": {
+      "value": "#30a46c",
+      "type": "color",
+      "description": "Solid backgrounds, AAL semibold - white text"
+    },
+    "bg-solid-hover": {
+      "value": "#3cb179",
+      "type": "color",
+      "description": "Hovegreen solid backgrounds"
+    },
+    "text": {
+      "value": "#e5fbeb",
+      "type": "color",
+      "description": "high-contrast text"
+    },
+    "text-hover": {
+      "value": "#4cc38a",
+      "type": "color",
+      "description": "low-contrast text"
+    },
+    "icon": {
+      "value": "#e5fbeb",
+      "type": "color",
+      "description": "high-contrast text"
+    },
+    "icon-hover": {
+      "value": "#4cc38a",
+      "type": "color",
+      "description": "low-contrast text"
+    }
+  },
+  "info": {
+    "bg": {
+      "value": "#0f1720",
+      "type": "color",
+      "description": "App background"
+    },
+    "bg-subtle": {
+      "value": "#0f1b2d",
+      "type": "color",
+      "description": "Subtle background"
+    },
+    "container": {
+      "value": "#0280ff12",
+      "type": "color",
+      "description": "UI element background with low-contrast text"
+    },
+    "container-hover": {
+      "value": "#0180ff1e",
+      "type": "color",
+      "description": "Hoveblue UI element background"
+    },
+    "container-active": {
+      "value": "#0180ef30",
+      "type": "color",
+      "description": "Active UI element background"
+    },
+    "selected": {
+      "value": "#0180ff1e",
+      "type": "color",
+      "description": "Selected UI element background"
+    },
+    "selected-hover": {
+      "value": "#0180ef30",
+      "type": "color",
+      "description": "Selected Hoveblue UI element background"
+    },
+    "selected-active": {
+      "value": "#0177e648",
+      "type": "color",
+      "description": "Selected Active UI element background"
+    },
+    "border": {
+      "value": "#0d3868",
+      "type": "color",
+      "description": "Subtle borders and separators, dividers"
+    },
+    "outline": {
+      "value": "#0077df69",
+      "type": "color",
+      "description": "UI element border and focus rings"
+    },
+    "outline-hover": {
+      "value": "#0082e6a1",
+      "type": "color",
+      "description": "Hoveblue UI element border"
+    },
+    "bg-solid": {
+      "value": "#0091ff",
+      "type": "color",
+      "description": "Solid backgrounds, AAL semibold - white text"
+    },
+    "bg-solid-hover": {
+      "value": "#369eff",
+      "type": "color",
+      "description": "Hoveblue solid backgrounds"
+    },
+    "text": {
+      "value": "#eaf6ff",
+      "type": "color",
+      "description": "high-contrast text"
+    },
+    "text-hover": {
+      "value": "#52a9ff",
+      "type": "color",
+      "description": "low-contrast text"
+    },
+    "icon": {
+      "value": "#eaf6ff",
+      "type": "color",
+      "description": "high-contrast text"
+    },
+    "icon-hover": {
+      "value": "#52a9ff",
+      "type": "color",
+      "description": "low-contrast text"
     }
   }
 }

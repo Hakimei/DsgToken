@@ -1,202 +1,202 @@
 {
   "color": {
-    "gray": {
+    "slate": {
       "1": {
-        "value": "#fcfcfc",
+        "value": "#fbfcfd",
         "type": "color"
       },
       "2": {
-        "value": "#f8f8f8",
+        "value": "#f8f9fa",
         "type": "color"
       },
       "3": {
-        "value": "#f3f3f3",
+        "value": "#f1f3f5",
         "type": "color"
       },
       "4": {
-        "value": "#ededed",
+        "value": "#eceef0",
         "type": "color"
       },
       "5": {
-        "value": "#e8e8e8",
+        "value": "#e6e8eb",
         "type": "color"
       },
       "6": {
-        "value": "#e2e2e2",
+        "value": "#dfe3e6",
         "type": "color"
       },
       "7": {
-        "value": "#dbdbdb",
+        "value": "#d7dbdf",
         "type": "color"
       },
       "8": {
-        "value": "#c7c7c7",
+        "value": "#c1c8cd",
         "type": "color"
       },
       "9": {
-        "value": "#8f8f8f",
+        "value": "#889096",
         "type": "color"
       },
       "10": {
-        "value": "#858585",
+        "value": "#7e868c",
         "type": "color"
       },
       "11": {
-        "value": "#6f6f6f",
+        "value": "#687076",
         "type": "color"
       },
       "12": {
-        "value": "#171717",
+        "value": "#11181c",
         "type": "color"
       }
     },
-    "grayA": {
+    "slateA": {
       "A1": {
-        "value": "#00000003",
+        "value": "#05448204",
         "type": "color"
       },
       "A2": {
-        "value": "#00000007",
+        "value": "#05294d07",
         "type": "color"
       },
       "A3": {
-        "value": "#0000000c",
+        "value": "#0025490e",
         "type": "color"
       },
       "A4": {
-        "value": "#00000012",
+        "value": "#021c3713",
         "type": "color"
       },
       "A5": {
-        "value": "#00000017",
+        "value": "#02173519",
         "type": "color"
       },
       "A6": {
-        "value": "#0000001d",
+        "value": "#01213920",
         "type": "color"
       },
       "A7": {
-        "value": "#00000024",
+        "value": "#001a3328",
         "type": "color"
       },
       "A8": {
-        "value": "#00000038",
+        "value": "#011e323e",
         "type": "color"
       },
       "A9": {
-        "value": "#00000070",
+        "value": "#00111e77",
         "type": "color"
       },
       "A10": {
-        "value": "#0000007a",
+        "value": "#00101b81",
         "type": "color"
       },
       "A11": {
-        "value": "#00000090",
+        "value": "#000e1897",
         "type": "color"
       },
       "A12": {
-        "value": "#000000e8",
+        "value": "#00080cee",
         "type": "color"
       }
     },
-    "grayDark": {
+    "slateDark": {
       "1": {
-        "value": "#161616",
+        "value": "#151718",
         "type": "color"
       },
       "2": {
-        "value": "#1c1c1c",
+        "value": "#1a1d1e",
         "type": "color"
       },
       "3": {
-        "value": "#232323",
+        "value": "#202425",
         "type": "color"
       },
       "4": {
-        "value": "#282828",
+        "value": "#26292b",
         "type": "color"
       },
       "5": {
-        "value": "#2e2e2e",
+        "value": "#2b2f31",
         "type": "color"
       },
       "6": {
-        "value": "#343434",
+        "value": "#313538",
         "type": "color"
       },
       "7": {
-        "value": "#3e3e3e",
+        "value": "#3a3f42",
         "type": "color"
       },
       "8": {
-        "value": "#505050",
+        "value": "#4c5155",
         "type": "color"
       },
       "9": {
-        "value": "#707070",
+        "value": "#697177",
         "type": "color"
       },
       "10": {
-        "value": "#7e7e7e",
+        "value": "#787f85",
         "type": "color"
       },
       "11": {
-        "value": "#a0a0a0",
+        "value": "#9ba1a6",
         "type": "color"
       },
       "12": {
-        "value": "#ededed",
+        "value": "#ecedee",
         "type": "color"
       }
     },
-    "grayDarkA": {
+    "slateDarkA": {
       "A1": {
         "value": "hsla(0, 0%, 0%, 0%)",
         "type": "color"
       },
       "A2": {
-        "value": "#ffffff07",
+        "value": "#d5feff07",
         "type": "color"
       },
       "A3": {
-        "value": "#ffffff0e",
+        "value": "#d6fbfc0f",
         "type": "color"
       },
       "A4": {
-        "value": "#ffffff14",
+        "value": "#e2f0fd15",
         "type": "color"
       },
       "A5": {
-        "value": "#ffffff1a",
+        "value": "#dff3fd1c",
         "type": "color"
       },
       "A6": {
-        "value": "#ffffff21",
+        "value": "#dfeffe23",
         "type": "color"
       },
       "A7": {
-        "value": "#ffffff2c",
+        "value": "#e0f3ff2e",
         "type": "color"
       },
       "A8": {
-        "value": "#ffffff3f",
+        "value": "#e5f2fe44",
         "type": "color"
       },
       "A9": {
-        "value": "#ffffff62",
+        "value": "#e1f1ff69",
         "type": "color"
       },
       "A10": {
-        "value": "#ffffff72",
+        "value": "#e7f3ff78",
         "type": "color"
       },
       "A11": {
-        "value": "#ffffff97",
+        "value": "#eff7ff9d",
         "type": "color"
       },
       "A12": {
-        "value": "#ffffffeb",
+        "value": "#fdfeffec",
         "type": "color"
       }
     },
@@ -1569,9 +1569,10 @@
           "type": "color"
         },
         "overlay": {
-          "value": "linear-gradient(180deg, #1717171a 0%, #17171780 100%)",
+          "value": "linear-gradient(180deg, rgba($color.gray.12, 0.10) 0%, rgba($color.gray.12, 0.5) 100%)",
           "description": "linear-gradient: overlay",
-          "type": "color"
+          "type": "color",
+          "failedToResolve": true
         }
       }
     }
