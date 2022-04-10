@@ -12,32 +12,32 @@
         "description": "Subtle background"
       },
       "container": {
-        "value": "#0025490e",
+        "value": "#d6fbfc0f",
         "type": "color",
         "description": "UI element background with low-contrast text"
       },
       "container-hover": {
-        "value": "#021c3713",
+        "value": "#e2f0fd15",
         "type": "color",
         "description": "Hovered UI element background"
       },
       "container-active": {
-        "value": "#02173519",
+        "value": "#dff3fd1c",
         "type": "color",
         "description": "Active UI element background"
       },
       "selected": {
-        "value": "#021c3713",
+        "value": "#e2f0fd15",
         "type": "color",
         "description": "Selected UI element background"
       },
       "selected-hover": {
-        "value": "#02173519",
+        "value": "#dff3fd1c",
         "type": "color",
         "description": "Selected Hovered UI element background"
       },
       "selected-active": {
-        "value": "#01213920",
+        "value": "#dfeffe23",
         "type": "color",
         "description": "Selected Active UI element background"
       },
@@ -47,12 +47,12 @@
         "description": "Subtle borders and separators, dividers"
       },
       "outline": {
-        "value": "#001a3328",
+        "value": "#e0f3ff2e",
         "type": "color",
         "description": "UI element border and focus rings"
       },
       "outline-hover": {
-        "value": "#011e323e",
+        "value": "#e5f2fe44",
         "type": "color",
         "description": "Hovered UI element border"
       },
@@ -99,32 +99,32 @@
         "description": "Subtle background"
       },
       "container": {
-        "value": "#0280ff12",
+        "value": "#1677fe22",
         "type": "color",
         "description": "UI element background with low-contrast text"
       },
       "container-hover": {
-        "value": "#0180ff1e",
+        "value": "#1476fe32",
         "type": "color",
         "description": "Hovered UI element background"
       },
       "container-active": {
-        "value": "#0180ef30",
+        "value": "#0f7bfe40",
         "type": "color",
         "description": "Active UI element background"
       },
       "selected": {
-        "value": "#0180ff1e",
+        "value": "#1476fe32",
         "type": "color",
         "description": "Selected UI element background"
       },
       "selected-hover": {
-        "value": "#0180ef30",
+        "value": "#0f7bfe40",
         "type": "color",
         "description": "Selected Hovered UI element background"
       },
       "selected-active": {
-        "value": "#0177e648",
+        "value": "#097cff52",
         "type": "color",
         "description": "Selected Active UI element background"
       },
@@ -134,12 +134,12 @@
         "description": "Subtle borders and separators, dividers"
       },
       "outline": {
-        "value": "#0077df69",
+        "value": "#047dff6f",
         "type": "color",
         "description": "UI element border and focus rings"
       },
       "outline-hover": {
-        "value": "#0082e6a1",
+        "value": "#057eff98",
         "type": "color",
         "description": "Hovered UI element border"
       },
@@ -186,32 +186,32 @@
         "description": "Subtle background"
       },
       "container": {
-        "value": "#ff010110",
+        "value": "#fe3a3d21",
         "type": "color",
         "description": "UI element background with low-contrast text"
       },
       "container-hover": {
-        "value": "#ff00001a",
+        "value": "#fe39402f",
         "type": "color",
         "description": "Hovered UI element background"
       },
       "container-active": {
-        "value": "#f2000027",
+        "value": "#ff353f3c",
         "type": "color",
         "description": "Active UI element background"
       },
       "selected": {
-        "value": "#ff00001a",
+        "value": "#fe39402f",
         "type": "color",
         "description": "Selected UI element background"
       },
       "selected-hover": {
-        "value": "#f2000027",
+        "value": "#ff353f3c",
         "type": "color",
         "description": "Selected Hovered UI element background"
       },
       "selected-active": {
-        "value": "#e4010139",
+        "value": "#ff353c52",
         "type": "color",
         "description": "Selected Active UI element background"
       },
@@ -221,12 +221,12 @@
         "description": "Subtle borders and separators, dividers"
       },
       "outline": {
-        "value": "#d9000451",
+        "value": "#ff303b71",
         "type": "color",
         "description": "UI element border and focus rings"
       },
       "outline-hover": {
-        "value": "#d100046f",
+        "value": "#ff2f369e",
         "type": "color",
         "description": "Hovered UI element border"
       },
@@ -273,32 +273,32 @@
         "description": "Subtle background"
       },
       "container": {
-        "value": "#ffea012e",
+        "value": "#fdbe0012",
         "type": "color",
         "description": "UI element background with low-contrast text"
       },
       "container-hover": {
-        "value": "#ffe60144",
+        "value": "#fdc2001c",
         "type": "color",
-        "description": "Hoveyellow UI element background"
+        "description": "Hovered UI element background"
       },
       "container-active": {
-        "value": "#fcdb005b",
+        "value": "#fec70026",
         "type": "color",
         "description": "Active UI element background"
       },
       "selected": {
-        "value": "#ffe60144",
+        "value": "#fdc2001c",
         "type": "color",
         "description": "Selected UI element background"
       },
       "selected-hover": {
-        "value": "#fcdb005b",
+        "value": "#fec70026",
         "type": "color",
-        "description": "Selected Hoveyellow UI element background"
+        "description": "Selected Hovered UI element background"
       },
       "selected-active": {
-        "value": "#f2c90073",
+        "value": "#fed80033",
         "type": "color",
         "description": "Selected Active UI element background"
       },
@@ -308,14 +308,14 @@
         "description": "Subtle borders and separators, dividers"
       },
       "outline": {
-        "value": "#e3b20093",
+        "value": "#ffdb1345",
         "type": "color",
         "description": "UI element border and focus rings"
       },
       "outline-hover": {
-        "value": "#ebbc00fa",
+        "value": "#fed8005f",
         "type": "color",
-        "description": "Hoveyellow UI element border"
+        "description": "Hovered UI element border"
       },
       "bg-solid": {
         "value": "#f5d90a",
@@ -325,7 +325,7 @@
       "bg-solid-hover": {
         "value": "#ffef5c",
         "type": "color",
-        "description": "Hoveyellow solid backgrounds"
+        "description": "Hovered solid backgrounds"
       },
       "text": {
         "value": "#fffad1",
@@ -360,32 +360,32 @@
         "description": "Subtle background"
       },
       "container": {
-        "value": "#02ba3c16",
+        "value": "#2afebe12",
         "type": "color",
         "description": "UI element background with low-contrast text"
       },
       "container-hover": {
-        "value": "#01a63522",
+        "value": "#33feb31b",
         "type": "color",
-        "description": "Hovegreen UI element background"
+        "description": "Hovered UI element background"
       },
       "container-active": {
-        "value": "#009b3633",
+        "value": "#38feb524",
         "type": "color",
         "description": "Active UI element background"
       },
       "selected": {
-        "value": "#01a63522",
+        "value": "#33feb31b",
         "type": "color",
         "description": "Selected UI element background"
       },
       "selected-hover": {
-        "value": "#009b3633",
+        "value": "#38feb524",
         "type": "color",
-        "description": "Selected Hovegreen UI element background"
+        "description": "Selected Hovered UI element background"
       },
       "selected-active": {
-        "value": "#0193364b",
+        "value": "#3dffb130",
         "type": "color",
         "description": "Selected Active UI element background"
       },
@@ -395,14 +395,14 @@
         "description": "Subtle borders and separators, dividers"
       },
       "outline": {
-        "value": "#008c3d6d",
+        "value": "#43ffad42",
         "type": "color",
         "description": "UI element border and focus rings"
       },
       "outline-hover": {
-        "value": "#00934ca4",
+        "value": "#49ffaa5e",
         "type": "color",
-        "description": "Hovegreen UI element border"
+        "description": "Hovered UI element border"
       },
       "bg-solid": {
         "value": "#30a46c",
@@ -412,7 +412,7 @@
       "bg-solid-hover": {
         "value": "#3cb179",
         "type": "color",
-        "description": "Hovegreen solid backgrounds"
+        "description": "Hovered solid backgrounds"
       },
       "text": {
         "value": "#e5fbeb",
@@ -447,32 +447,32 @@
         "description": "Subtle background"
       },
       "container": {
-        "value": "#0280ff12",
+        "value": "#1677fe22",
         "type": "color",
         "description": "UI element background with low-contrast text"
       },
       "container-hover": {
-        "value": "#0180ff1e",
+        "value": "#1476fe32",
         "type": "color",
-        "description": "Hoveblue UI element background"
+        "description": "Hovered UI element background"
       },
       "container-active": {
-        "value": "#0180ef30",
+        "value": "#0f7bfe40",
         "type": "color",
         "description": "Active UI element background"
       },
       "selected": {
-        "value": "#0180ff1e",
+        "value": "#1476fe32",
         "type": "color",
         "description": "Selected UI element background"
       },
       "selected-hover": {
-        "value": "#0180ef30",
+        "value": "#0f7bfe40",
         "type": "color",
-        "description": "Selected Hoveblue UI element background"
+        "description": "Selected Hovered UI element background"
       },
       "selected-active": {
-        "value": "#0177e648",
+        "value": "#097cff52",
         "type": "color",
         "description": "Selected Active UI element background"
       },
@@ -482,14 +482,14 @@
         "description": "Subtle borders and separators, dividers"
       },
       "outline": {
-        "value": "#0077df69",
+        "value": "#047dff6f",
         "type": "color",
         "description": "UI element border and focus rings"
       },
       "outline-hover": {
-        "value": "#0082e6a1",
+        "value": "#057eff98",
         "type": "color",
-        "description": "Hoveblue UI element border"
+        "description": "Hovered UI element border"
       },
       "bg-solid": {
         "value": "#0091ff",
@@ -499,7 +499,7 @@
       "bg-solid-hover": {
         "value": "#369eff",
         "type": "color",
-        "description": "Hoveblue solid backgrounds"
+        "description": "Hovered solid backgrounds"
       },
       "text": {
         "value": "#eaf6ff",
