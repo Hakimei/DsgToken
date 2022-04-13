@@ -2424,7 +2424,7 @@
           "letterSpacing": "-0.8px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: ui"
@@ -2438,7 +2438,7 @@
           "letterSpacing": "-0.8px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: ui"
@@ -2452,7 +2452,7 @@
           "letterSpacing": "-0.4px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: ui"
@@ -2466,7 +2466,7 @@
           "letterSpacing": "-0.4px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: ui"
@@ -2480,7 +2480,7 @@
           "letterSpacing": "-0.4px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: ui"
@@ -2494,7 +2494,7 @@
           "letterSpacing": "-0.2px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: ui"
@@ -2508,7 +2508,7 @@
           "letterSpacing": "-0.2px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: ui"
@@ -2522,7 +2522,7 @@
           "letterSpacing": "-0.2px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: ui"
@@ -2536,7 +2536,7 @@
           "letterSpacing": "-0.2px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: ui"
@@ -2550,7 +2550,7 @@
           "letterSpacing": "-0.2px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: ui"
@@ -2566,7 +2566,7 @@
           "letterSpacing": "0px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: ui"
@@ -2580,7 +2580,7 @@
           "letterSpacing": "0px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: ui"
@@ -2594,7 +2594,7 @@
           "letterSpacing": "0px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: ui"
@@ -2608,7 +2608,7 @@
           "letterSpacing": "0px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: ui"
@@ -2622,7 +2622,7 @@
           "letterSpacing": "-0.2px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: ui"
@@ -2638,7 +2638,7 @@
           "letterSpacing": "-0.2px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: sentence"
@@ -2652,7 +2652,7 @@
           "letterSpacing": "-0.2px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: sentence"
@@ -2666,7 +2666,7 @@
           "letterSpacing": "-0.2px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: sentence"
@@ -2682,7 +2682,7 @@
           "letterSpacing": "0px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: sentence"
@@ -2696,7 +2696,7 @@
           "letterSpacing": "0px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: sentence"
@@ -2710,7 +2710,7 @@
           "letterSpacing": "0px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: sentence"
@@ -2726,7 +2726,7 @@
           "letterSpacing": "0px",
           "paragraphSpacing": 16,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: paragraph"
@@ -2740,7 +2740,7 @@
           "letterSpacing": "0px",
           "paragraphSpacing": 14,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: paragraph"
@@ -2754,7 +2754,7 @@
           "letterSpacing": "0px",
           "paragraphSpacing": 12,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: paragraph"
@@ -2770,7 +2770,7 @@
           "letterSpacing": "0px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: button text"
@@ -2784,7 +2784,7 @@
           "letterSpacing": "0px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: button text"
@@ -2798,7 +2798,7 @@
           "letterSpacing": "0px",
           "paragraphSpacing": 0,
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "none"
         },
         "type": "typography",
         "description": "body-case: button text"
