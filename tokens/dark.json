@@ -42,16 +42,16 @@
         "description": "Selected Active UI element background"
       },
       "border": {
-        "value": "#313538",
+        "value": "#dfeffe23",
         "type": "color",
         "description": "Subtle borders and separators, dividers"
       },
-      "outline": {
+      "border-hover": {
         "value": "#e0f3ff2e",
         "type": "color",
         "description": "UI element border and focus rings"
       },
-      "outline-hover": {
+      "border-active": {
         "value": "#e5f2fe44",
         "type": "color",
         "description": "Hovered UI element border"
@@ -129,16 +129,16 @@
         "description": "Selected Active UI element background"
       },
       "border": {
-        "value": "#0d3868",
+        "value": "#097cff52",
         "type": "color",
         "description": "Subtle borders and separators, dividers"
       },
-      "outline": {
+      "border-hover": {
         "value": "#047dff6f",
         "type": "color",
         "description": "UI element border and focus rings"
       },
-      "outline-hover": {
+      "border-active": {
         "value": "#057eff98",
         "type": "color",
         "description": "Hovered UI element border"
@@ -216,16 +216,16 @@
         "description": "Selected Active UI element background"
       },
       "border": {
-        "value": "#671e22",
+        "value": "#ff353c52",
         "type": "color",
         "description": "Subtle borders and separators, dividers"
       },
-      "outline": {
+      "border-hover": {
         "value": "#ff303b71",
         "type": "color",
         "description": "UI element border and focus rings"
       },
-      "outline-hover": {
+      "border-active": {
         "value": "#ff2f369e",
         "type": "color",
         "description": "Hovered UI element border"
@@ -303,16 +303,16 @@
         "description": "Selected Active UI element background"
       },
       "border": {
-        "value": "#493c00",
+        "value": "#fed80033",
         "type": "color",
         "description": "Subtle borders and separators, dividers"
       },
-      "outline": {
+      "border-hover": {
         "value": "#ffdb1345",
         "type": "color",
         "description": "UI element border and focus rings"
       },
-      "outline-hover": {
+      "border-active": {
         "value": "#fed8005f",
         "type": "color",
         "description": "Hovered UI element border"
@@ -390,16 +390,16 @@
         "description": "Selected Active UI element background"
       },
       "border": {
-        "value": "#164430",
+        "value": "#3dffb130",
         "type": "color",
         "description": "Subtle borders and separators, dividers"
       },
-      "outline": {
+      "border-hover": {
         "value": "#43ffad42",
         "type": "color",
         "description": "UI element border and focus rings"
       },
-      "outline-hover": {
+      "border-active": {
         "value": "#49ffaa5e",
         "type": "color",
         "description": "Hovered UI element border"
@@ -477,16 +477,16 @@
         "description": "Selected Active UI element background"
       },
       "border": {
-        "value": "#0d3868",
+        "value": "#097cff52",
         "type": "color",
         "description": "Subtle borders and separators, dividers"
       },
-      "outline": {
+      "border-hover": {
         "value": "#047dff6f",
         "type": "color",
         "description": "UI element border and focus rings"
       },
-      "outline-hover": {
+      "border-active": {
         "value": "#057eff98",
         "type": "color",
         "description": "Hovered UI element border"
