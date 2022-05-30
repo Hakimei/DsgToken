@@ -89,87 +89,87 @@
     },
     "primary": {
       "bg": {
-        "value": "#0f1720",
+        "value": "#131620",
         "type": "color",
         "description": "App background"
       },
       "bg-subtle": {
-        "value": "#0f1b2d",
+        "value": "#15192d",
         "type": "color",
         "description": "Subtle background"
       },
       "container": {
-        "value": "#1677fe22",
+        "value": "#3c63fe25",
         "type": "color",
         "description": "UI element background with low-contrast text"
       },
       "container-hover": {
-        "value": "#1476fe32",
+        "value": "#3d67ff36",
         "type": "color",
         "description": "Hovered UI element background"
       },
       "container-active": {
-        "value": "#0f7bfe40",
+        "value": "#3f69fe45",
         "type": "color",
         "description": "Active UI element background"
       },
       "selected": {
-        "value": "#1476fe32",
+        "value": "#3d67ff36",
         "type": "color",
         "description": "Selected UI element background"
       },
       "selected-hover": {
-        "value": "#0f7bfe40",
+        "value": "#3f69fe45",
         "type": "color",
         "description": "Selected Hovered UI element background"
       },
       "selected-active": {
-        "value": "#097cff52",
+        "value": "#3e6bff59",
         "type": "color",
         "description": "Selected Active UI element background"
       },
       "border": {
-        "value": "#097cff52",
+        "value": "#3e6bff59",
         "type": "color",
         "description": "Subtle borders and separators, dividers"
       },
       "border-hover": {
-        "value": "#047dff6f",
+        "value": "#3d6aff78",
         "type": "color",
         "description": "UI element border and focus rings"
       },
       "border-active": {
-        "value": "#057eff98",
+        "value": "#3e6bffa7",
         "type": "color",
         "description": "Hovered UI element border"
       },
       "bg-solid": {
-        "value": "#0091ff",
+        "value": "#3e63dd",
         "type": "color",
         "description": "Solid backgrounds, AAL semibold - white text"
       },
       "bg-solid-hover": {
-        "value": "#369eff",
+        "value": "#5373e7",
         "type": "color",
         "description": "Hovered solid backgrounds"
       },
       "text": {
-        "value": "#eaf6ff",
+        "value": "#eef1fd",
         "type": "color",
         "description": "high-contrast text"
       },
       "text-hover": {
-        "value": "#52a9ff",
+        "value": "#849dff",
         "type": "color",
         "description": "low-contrast text"
       },
       "icon": {
-        "value": "#eaf6ff",
+        "value": "#eef1fd",
         "type": "color",
         "description": "high-contrast text"
       },
       "icon-hover": {
-        "value": "#52a9ff",
+        "value": "#849dff",
         "type": "color",
         "description": "low-contrast text"
       }
