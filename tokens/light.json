@@ -527,6 +527,12 @@
         "value": "hsla(0, 0%, 100%, 0%)",
         "type": "color"
       }
+    },
+    "inverse": {
+      "text": {
+        "value": "#ffffff",
+        "type": "color"
+      }
     }
   }
 }
